@@ -13,8 +13,6 @@ Si le collectif nait à cette occasion , il souhaite à terme encourager d’aut
 À la coordination de cet événement du 6 septembre 3 structures : Enercoop
 Languedoc-Roussillon, Les Ami-e-s de la Cagette, Scopyleft
 
-![Affiche de l'événement]({% link images/affiche_pages-to-jpg-0001.jpg %})
-
 ## Mission et valeurs
 Le modèle coopératif, porté par des personnes physiques et morales partageant les mêmes valeurs.
 
