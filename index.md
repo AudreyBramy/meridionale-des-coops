@@ -5,14 +5,15 @@ in_menu: true
 ---
 ![Logo de la méridionale des coops]({% link images/Logo allongé_12.png %})
 
-
 # La Méridionale des Coopératives
 
 À l’occasion de l’Année Internationale des Coopératives, proclamée par l’ONU, plusieurs coopératives situées sur le territoire de Montpellier et ses alentours se rassemblent pour créer un espace commun de visibilité, de partage et d’action dans le respect des principes coopératifs de l’Alliance Internationale Coopérative.
+
 Si le collectif naît à cette occasion , il souhaite à terme encourager d’autres structures du pourtour méditerranéen à les rejoindre et à continuer la dynamique au-delà de l’année 2025.
 
 À la coordination de cet événement du 6 septembre 3 structures : Enercoop
 Languedoc-Roussillon, Les Ami-e-s de la Cagette, Scopyleft
+
 
 ![Affiche]({% link images/affiche_pages-to-jpg-0001.jpg %})
 
@@ -32,7 +33,6 @@ Nous portons une vision intégrée, inclusive et singulière du monde, à traver
 ## Public cible
 
 ### À qui s’adresse le collectif ?
-
 - Un très large public, de 15 à 80 ans.
 - Des citoyens curieux, engagés ou en recherche de nouveaux modèles
 - Des professionnels, habitants, étudiants, bénévoles, familles…
@@ -41,6 +41,5 @@ Nous portons une vision intégrée, inclusive et singulière du monde, à traver
 Objectifs spécifiques :Mise en avant d’une communauté d’acteurs autour des “Communs”
 
 ### Chaque univers de communs est composé :
-
 - De coopératives
 - Et de partenaires et soutiens 
