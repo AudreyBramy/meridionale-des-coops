@@ -3,7 +3,7 @@ title: "Accueil"
 order: 0
 in_menu: true
 ---
-![Texte décrivant l'image]({% link images/Logo allongé_12.png %})
+![Logo de la méridionale des coops]({% link images/Logo allongé_12.png %})
 
 # La Méridionale des Coopératives
 
@@ -13,7 +13,7 @@ Si le collectif nait à cette occasion , il souhaite à terme encourager d’aut
 À la coordination de cet événement du 6 septembre 3 structures : Enercoop
 Languedoc-Roussillon, Les Ami-e-s de la Cagette, Scopyleft
 
-![Texte décrivant l'image]({% link images/affiche-2.pdf %})
+![Affiche de l'événement]({% link images/affiche_pages-to-jpg-0001.jpg %})
 
 ## Mission et valeurs
 Le modèle coopératif, porté par des personnes physiques et morales partageant les mêmes valeurs.
