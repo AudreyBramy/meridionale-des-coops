@@ -5,7 +5,7 @@ in_menu: true
 ---
 ![Logo de la méridionale des coops]({% link images/Logo allongé_12.png %})
 
-# La Méridionale des Coopératives
+# La Méridionale des Coopératives
 
 À l’occasion de l’Année Internationale des Coopératives, proclamée par l’ONU, plusieurs coopératives situées sur le territoire de Montpellier et ses alentours se rassemblent pour créer un espace commun de visibilité, de partage et d’action dans le respect des principes coopératifs de l’Alliance Internationale Coopérative.
 
@@ -32,7 +32,7 @@ Nous portons une vision intégrée, inclusive et singulière du monde, à traver
 
 ## Public cible
 
-### À qui s’adresse le collectif ?
+### À qui s’adresse le collectif ?
 - Un très large public, de 15 à 80 ans.
 - Des citoyens curieux, engagés ou en recherche de nouveaux modèles
 - Des professionnels, habitants, étudiants, bénévoles, familles…
