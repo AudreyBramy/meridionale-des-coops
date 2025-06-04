@@ -14,6 +14,7 @@ Si le collectif naît à cette occasion , il souhaite à terme encourager d’au
 À la coordination de cet événement du 6 septembre 3 structures : Enercoop
 Languedoc-Roussillon, Les Ami-e-s de la Cagette, Scopyleft
 
+[Pour s'inscrire](https://www.helloasso.com/associations/les-amis-de-la-cagette/evenements/galaxie-cooperative-un-evenement-de-la-meridionale-des-cooperatives)
 
 ![Affiche]({% link images/affiche_pages-to-jpg-0001.jpg %})
 
