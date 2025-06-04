@@ -11,18 +11,17 @@ in_menu: true
 Si le collectif nait à cette occasion , il souhaite à terme encourager d’autres structures du pourtour méditerranéen à les rejoindre et à continuer la dynamique au-delà de l’année 2025.
 
 À la coordination de cet événement du 6 septembre 3 structures : Enercoop
-Languedoc-Roussillon, Les Ami-e-s de la Cagette, Scopyleft 
+Languedoc-Roussillon, Les Ami-e-s de la Cagette, Scopyleft
 
+![Texte décrivant l'image]({% link images/affiche-2.pdf %})
 
 ## Mission et valeurs
-
 Le modèle coopératif, porté par des personnes physiques et morales partageant les mêmes valeurs.
 
 Le territoire méridional, ouvert, autodéterminé, ancré dans le Sud de la France, proche de la Méditerranée.
 L’éthique, au cœur de l’économie sociale et solidaire : coopération, solidarité, autonomie, transparence et respect des ressources.
 
 ## Positionnement et différenciation
-
 Nous portons une vision intégrée, inclusive et singulière du monde, à travers :
 
 - Une identité forte et impactante.
@@ -30,8 +29,8 @@ Nous portons une vision intégrée, inclusive et singulière du monde, à traver
 - Un design qui sort des codes “militants traditionnels” ou “forum associatif”.
 - Un travail sur le langage, créatif et engageant.
 
-
 ## Public cible
+
 ### À qui s’adresse le collectif ?
 
 - Un très large public, de 15 à 80 ans.
