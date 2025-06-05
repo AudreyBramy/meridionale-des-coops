@@ -3,7 +3,7 @@ title: "Accueil"
 order: 0
 in_menu: true
 ---
-![Texte décrivant l'image]({% link images/Logo allongé_12.png %})
+![Le logo]({% link images/Logo allongé_12.png %})
 
 # La méridionale des coopératives
 
@@ -15,9 +15,9 @@ A la coordination de cet événement du 6 septembre plusieurs structures : Enerc
 
  <a href="https://www.helloasso.com/associations/les-amis-de-la-cagette/evenements/galaxie-cooperative-un-evenement-de-la-meridionale-des-cooperatives" class="bouton">S'inscrire</a>
 
-![Texte décrivant l'image]({% link images/affiche_pages-to-jpg-0001.jpg %})
+![L'affiche de l'événement]({% link images/affiche_pages-to-jpg-0001.jpg %})
 
-## Mission et valeurs
+## Mission et valeurs
 - Le modèle coopératif, porté par des personnes physiques et morales partageant les mêmes valeurs. 
 - Le territoire méridional, ouvert, autodéterminé, ancré dans le Sud de la France, proche de la Méditerranée.
 - L’éthique, au cœur de l’économie sociale et solidaire : coopération, solidarité, autonomie, transparence et respect des ressources.
