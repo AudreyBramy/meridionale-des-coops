@@ -1,5 +1,9 @@
 :root {
     --couleur-primaire : #8dd0de;
+    h1 { 
+        color: #8dd0de;    
+    }
+
     h2, h3 {
        color: #fcc133;
     }
