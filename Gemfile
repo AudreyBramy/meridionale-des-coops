@@ -3,8 +3,8 @@ source "https://rubygems.org"
 gem "jekyll", "~> 4.3.2"
 
 # Jekyll theme for Scribouilli
-# gem "mimoza", git: "https://github.com/Scribouilli/mimoza.git", branch: "main"
-gem "minimal-mistakes-jekyll"
+gem "mimoza", git: "https://github.com/Scribouilli/mimoza.git", branch: "main"
+# gem "minimal-mistakes-jekyll"
 
 group :jekyll_plugins do
   gem "jekyll-git-hash", "~> 0.1.1"
