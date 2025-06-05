@@ -1,6 +1,6 @@
 ---
 title: "Infos pratiques"
-order: 4
+order: 3
 in_menu: true
 ---
 # Les informations qui vous seront utiles

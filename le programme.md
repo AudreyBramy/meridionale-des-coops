@@ -1,6 +1,6 @@
 ---
 title: "Le programme"
-order: 2
+order: 1
 in_menu: true
 ---
 # Le programme de la journée
