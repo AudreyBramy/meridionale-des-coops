@@ -13,11 +13,11 @@ Si le collectif nait à cette occasion , il souhaite à terme encourager d’aut
 
 A la coordination de cet événement du 6 septembre plusieurs structures : Enercoop Languedoc-Roussillon, Les Ami-e-s de la Cagette, Scopyleft
 
- <a href="https://www.helloasso.com/associations/les-amis-de-la-cagette/evenements/galaxie-cooperative-un-evenement-de-la-meridionale-des-cooperatives" class="bouton">S'inscrire</a>
+<a href="https://www.helloasso.com/associations/les-amis-de-la-cagette/evenements/galaxie-cooperative-un-evenement-de-la-meridionale-des-cooperatives" class="bouton">S'inscrire</a>
 
 ![L'affiche de l'événement]({% link images/affiche_pages-to-jpg-0001.jpg %})
 
-## Mission et valeurs
+## Missions et valeurs
 - Le modèle coopératif, porté par des personnes physiques et morales partageant les mêmes valeurs. 
 - Le territoire méridional, ouvert, autodéterminé, ancré dans le Sud de la France, proche de la Méditerranée.
 - L’éthique, au cœur de l’économie sociale et solidaire : coopération, solidarité, autonomie, transparence et respect des ressources.
