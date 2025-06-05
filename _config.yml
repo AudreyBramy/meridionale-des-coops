@@ -4,6 +4,6 @@ collections:
 plugins:
   - jekyll-feed
   - jekyll-git-hash
-theme: mimoza
+theme: minimal-mistakes-jekyll
 scribouilli: true
 baseurl: /meridionale-des-coops
