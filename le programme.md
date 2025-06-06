@@ -15,7 +15,9 @@ Les participant.es seront invités à utiliser la Graine, monnaie locale, comme 
 
 13h - Départ du centre ville pour une Vélorution en partenariat avec la coopérative desCoursiers Montpelliérains et associations de cyclistes (lieu de départ à trouver)
 
-14h Ouverture officielle (Grande scène - zone de turbulences) - Ballade collective dansl’espace et le temps
+14h Ouverture officielle (Grande scène - zone de turbulences) - Ballade collective dans l’espace et le temps
+
+**15h00 - 16h00** L'innovation sociale a 140ans !! diffusion d'un court métrage sur le mouvement des scop avec le cryptage de **Pierre Aurio, directeur de l'URSCOP**
 
 ● 14h30 - 16h (Grande scène - zone de turbulences) - Table ronde. Le rôle desmédiasConférence d’ouverture : le rôle des médias dans le changement de culture – quels intérêtsd’un modèle coopératif : facilite-t-il l’indépendance ?-Coopmédias-La Gazette de Montpellier-Blast-Et des médias locaux non coopératifs mais engagés : Le Poing, L’empaillée, Piochemagasine
 
