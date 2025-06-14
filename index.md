@@ -5,10 +5,10 @@ in_menu: true
 ---
 ![Le logo]({% link images/Logo allongé_12.png %})
 
-# La méridionale des coopératives
+## La méridionale des coopératives
 
-2025 : l’Année Internationale des Coopératives, proclamée par l’ONU, une année symbolique pour nous, **Acteurs de l'Economie Sociale et Solidaire**. C'est pourquoi, nous avons voulu créer un **événement Festif le 06 Septembre 2025 au Mas du Réemploi à Montpellier**. Grâce à la constitution d'un collectif de 30 structures de l'ESS situées sur le territoire de Montpellier et ses alentours nous proposons créer un espace commun de visibilité, de partage et d’action dans le respect des principes coopératifs de l’Alliance Internationale Coopérative. 
-Ouvert à toutes et à tous, en familles ou entre ami-es.
+2025 : l’Année Internationale des Coopératives, proclamée par l’ONU, une année symbolique pour nous, **Acteurs de l'Economie Sociale et Solidaire**. C'est pourquoi, nous avons voulu créer un **événement Festif le 06 Septembre 2025 au Mas du Réemploi à Montpellier**. Grâce à la constitution d'un collectif de 30 structures de l'ESS situées sur le territoire de Montpellier et ses alentours nous proposons de créer un espace commun de visibilité, de partage et d’actions dans le respect des principes coopératifs de l’Alliance Internationale Coopérative. 
+Ouvert à toutes et à tous, en familles ou entre ami-es, vous allez être plongé dans une galaxie animée : concerts, expo, théâtre, conférences, projections, jeux : espace enfants, workshop ... Toute la journée pour imaginer, rêver et apporter un autre regard sur notre société ... 
 
 
 ![L'affiche de l'événement du 6 septembre]({% link images/affiche.2-2.webp %})
