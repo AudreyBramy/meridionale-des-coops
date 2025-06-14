@@ -7,10 +7,8 @@ in_menu: true
 
 # La méridionale des coopératives
 
-2025 : l’Année Internationale des Coopératives, proclamée par l’ONU,
- plusieurs coopératives situées sur le territoire de Montpellier et ses alentours se rassemblent pour créer un espace commun de visibilité, de partage et d’action dans le respect des principes coopératifs de l’Alliance Internationale Coopérative.
+2025 : l’Année Internationale des Coopératives, proclamée par l’ONU, une année symbolique pour nous, Acteurs de l'Economie Sociale et Solidaire. C'est pourquoi, nous avons voulu créer un événement Festif le 06 Septembre 2025 au Mas du Réemploi à Montpellier. Grâce à la constitution d'un collectif de 30 structures de l'ESS situées sur le territoire de Montpellier et ses alentours nous allons créer un espace commun de visibilité, de partage et d’action dans le respect des principes coopératifs de l’Alliance Internationale Coopérative.
 
-Si le collectif nait à cette occasion , il souhaite à terme encourager d’autres structures du pourtour méditerranéen à les rejoindre et à continuer la dynamique au-delà de l’année 2025.
 
 ![L'affiche de l'événement du 6 septembre]({% link images/affiche.2-2.webp %})
 
