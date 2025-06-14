@@ -15,7 +15,7 @@ A la coordination de cet événement du 6 septembre plusieurs structures : Enerc
 
 <a href="https://www.helloasso.com/associations/les-amis-de-la-cagette/evenements/galaxie-cooperative-un-evenement-de-la-meridionale-des-cooperatives" class="bouton">S'inscrire</a>
 
-![L'affiche de l'événement]({% link images/affiche_pages-to-jpg-0001.jpg %})
+![L'affiche de l'événement du 6 septembre]({% link images/affiche.2-2.webp %})
 
 ## Missions et valeurs
 - Le modèle coopératif, porté par des personnes physiques et morales partageant les mêmes valeurs. 
