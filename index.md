@@ -7,15 +7,17 @@ in_menu: true
 
 # La méridionale des coopératives
 
-À l’occasion de l’Année Internationale des Coopératives, proclamée par l’ONU, plusieurs coopératives situées sur le territoire de Montpellier et ses alentours se rassemblent pour créer un espace commun de visibilité, de partage et d’action dans le respect des principes coopératifs de l’Alliance Internationale Coopérative.
+2025 : l’Année Internationale des Coopératives, proclamée par l’ONU,
+ plusieurs coopératives situées sur le territoire de Montpellier et ses alentours se rassemblent pour créer un espace commun de visibilité, de partage et d’action dans le respect des principes coopératifs de l’Alliance Internationale Coopérative.
 
 Si le collectif nait à cette occasion , il souhaite à terme encourager d’autres structures du pourtour méditerranéen à les rejoindre et à continuer la dynamique au-delà de l’année 2025.
 
-A la coordination de cet événement du 6 septembre plusieurs structures : Enercoop Languedoc-Roussillon, Les Ami-e-s de la Cagette, Scopyleft
+![L'affiche de l'événement du 6 septembre]({% link images/affiche.2-2.webp %})
+
 
 <a href="https://www.helloasso.com/associations/les-amis-de-la-cagette/evenements/galaxie-cooperative-un-evenement-de-la-meridionale-des-cooperatives" class="bouton">S'inscrire</a>
 
-![L'affiche de l'événement du 6 septembre]({% link images/affiche.2-2.webp %})
+
 
 ## Missions et valeurs
 - Le modèle coopératif, porté par des personnes physiques et morales partageant les mêmes valeurs. 
