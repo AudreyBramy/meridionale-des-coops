@@ -25,4 +25,4 @@ Ouvert à toutes et à tous, en familles ou entre ami-es.
 - Des professionnels, habitants, étudiants, bénévoles, familles...
 - Des personnes déjà engagées dans différentes structures. Pour permettre le regroupement et la convergence (se retrouver, ensemble et faire “corps”).
 - Des structures de l'ESS qui ont envie de participer ou de proposer leurs services.
-Pour toutes demandes ou infos sur qui nous sommes, vous pouvez nous envoyez un mail directement : 
+Pour toutes demandes ou infos sur qui nous sommes, vous pouvez nous envoyez un mail directement : meridionale-des-cooperatives@riseup.net 
