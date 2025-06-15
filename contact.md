@@ -1,9 +1,6 @@
 ---
 title: "Contact"
 order: 2
-in_menu: false
+in_menu: true
 ---
-L'Échappée Belle est actuellement composée de 6 membres.
-
-Pour nous contacter : [coucou@lechappeebelle.team](mailto:coucou@lechappeebelle.team)
-`
+Pour toutes demandes ou infos sur qui nous sommes, vous pouvez nous envoyez un mail directement : meridionale-des-cooperatives@riseup.net. 
