@@ -20,7 +20,7 @@ Ouvert à toutes et à tous, en familles ou entre ami-es, vous allez être plong
 
 ## Envie de nous rejoindre, dans nos actions ?
 
-### Le collectif est ouvert à :
+### Le collectif est ouvert à :
 - Un très large public, de 15 à 80 ans.
 - Des citoyens curieux, engagés ou en recherche de nouveaux modèles
 - Des professionnels, habitants, étudiants, bénévoles, familles, etc.
