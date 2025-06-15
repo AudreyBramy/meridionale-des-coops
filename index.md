@@ -18,11 +18,13 @@ Ouvert à toutes et à tous, en familles ou entre ami-es, vous allez être plong
 
 
 
-##Envie de nous rejoindre, dans nos actions ? 
- le collectif est ouvert à 
+## Envie de nous rejoindre, dans nos actions ?
+
+### Le collectif est ouvert à :
 - Un très large public, de 15 à 80 ans.
 - Des citoyens curieux, engagés ou en recherche de nouveaux modèles
-- Des professionnels, habitants, étudiants, bénévoles, familles...
-- Des personnes déjà engagées dans différentes structures. Pour permettre le regroupement et la convergence (se retrouver, ensemble et faire “corps”).
+- Des professionnels, habitants, étudiants, bénévoles, familles, etc.
+- Des personnes déjà engagées dans différentes structures, pour permettre le regroupement et la convergence (se retrouver, ensemble et faire “corps”).
 - Des structures de l'ESS qui ont envie de participer ou de proposer leurs services.
-Pour toutes demandes ou infos sur qui nous sommes, vous pouvez nous envoyez un mail directement : meridionale-des-cooperatives@riseup.net 
+
+Pour toutes demandes ou infos sur qui nous sommes, vous pouvez nous envoyez un mail directement : meridionale-des-cooperatives@riseup.net. 
