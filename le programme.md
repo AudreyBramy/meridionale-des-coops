@@ -5,13 +5,11 @@ in_menu: true
 ---
 # Le programme de la journée
 
-**10h - midi** Sensibilisation au ramassage des déchets autour du Mas réemploi (matin)Temps animé par la SCIC Sentinelles de Rivières 34.Collecte de déchets autour du Mas Réemploi : rendez-vous à 10h devant l'accueil. Sacs et pinces seront fournies (également pour les plus jeunes) mais venir avec ses propres gantset un gilet fluo. Durée adaptable à chacun·e.
+**10h - midi** Sensibilisation au ramassage des déchets autour du Mas réemploi Temps animé par la SCIC Sentinelles de Rivières 34. RDV à 10h devant l'accueil. Sacs et pinces seront fournies (également pour les plus jeunes) mais venir avec ses propres gants et un gilet fluo. Durée adaptable à chacun·e.
 
-**11h - 12h** (Bureau 4). Atelier “Mobilisez-vous pour projeter des films près de chezvous”. Propositions de films par la plateforme documentaire TENK en partenariat avecEnercoop Languedoc-Roussillon. Cet atelier est là pour vous inviter à réaliser desprojections documentaires près de chez soi grâce à la mise à disposition d’un catalogue de2 longs métrages et 3 courts métrages, présentation des films et du dispositif (attentionnécessité d’être sociétaire d’au moins une coopérative de la Méridionale pour bénéficier dudispositif) – Enercoop Languedoc-Roussillon /TENK
+**11h - 12h** (Bureau 4). Atelier “Mobilisez-vous pour projeter des films près de chez vous”. Propositions de films par la plateforme documentaire TENK en partenariat avec Enercoop Languedoc-Roussillon. Cet atelier est là pour vous inviter à réaliser des projections documentaires près de chez soi grâce à la mise à disposition d’un catalogue de 2 longs métrages et 3 courts métrages, présentation des films et du dispositif (attention nécessité d’être sociétaire d’au moins une coopérative de la Méridionale pour bénéficier du dispositif) – Enercoop Languedoc-Roussillon /TENK
 
 12h30-13h30 Pic Nic partagé (devant le mas Réemploi). 
-
-Les participant.es seront invités à utiliser la Graine, monnaie locale, comme monnaieunique de festival dans le but de sensibiliser à l’usage de la monnaie.Les participants seront invités à ouvrir leur compte avant l’événement (numérique) oupendant l’événement (numérique ou version papier). L’adhésion sera à tarif de l’eurosymbolique.
 
 13h - Départ du centre ville pour une Vélorution en partenariat avec la coopérative desCoursiers Montpelliérains et associations de cyclistes (lieu de départ à trouver)
 
