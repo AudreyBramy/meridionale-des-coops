@@ -3,7 +3,7 @@ title: "Infos pratiques"
 order: 3
 in_menu: true
 ---
-#Ici toutes les infos pour passer un bon festival !
+## Ici toutes les infos pour passer un bon festival !
 
 On peut déjà vous dire que ça se passe au **56 Av. du Marché Gare, 34070 Montpellier**.
 
