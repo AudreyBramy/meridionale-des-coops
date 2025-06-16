@@ -3,8 +3,9 @@ title: "Le programme"
 order: 1
 in_menu: true
 ---
-# Programme détaillé de la journée
+### Programme détaillé de la journée
 
+#### Avant le début officiel
 **10h - midi** Sensibilisation au ramassage des déchets autour du Mas réemploi 
 > Temps animé par la SCIC Sentinelles de Rivières 34. 
 > RDV à 10h devant l'accueil. Sacs et pinces seront fournies mais venir avec ses propres gants et un gilet fluo. Durée adaptable à chacun·e.
@@ -17,28 +18,25 @@ in_menu: true
 **13h** Vélorution
 > Départ du centre ville pour une Vélorution en partenariat avec la coopérative des Coursiers Montpelliérains et associations de cyclistes.
 
-**14h** Ouverture officielle __(Grande scène - zone de turbulences)__ - Ballade collective dans l’espace et le temps
-
-**14h15 - 15h30** __(Grande scène - zone de turbulences)__ - Conférence d’ouverture : Le rôle des médias dans le changement de culture – quels intérêts d’un modèle coopératif : facilite-t-il l’indépendance ? 
-> avec la participation de : Coopmédias - La Gazette de Montpellier - Blast- et des médias locaux non coopératifs mais engagés : Le Poing, L’empaillée, Pioche magasine !
+**14h** Ouverture officielle __(Grande scène - zone de turbulences)__ 
+> Ballade collective dans l’espace et le temps
 
 **15h30 - 16h00** __(Lieu à confirmer)__ L'innovation sociale a 140ans !! 
 > diffusion d'un court métrage sur le mouvement des scop avec le cryptage de **Pierre Aurio, directeur de l'Union Régionale des SCOP**
 
+<p class="encart">Espace livraison - espace des Équinoxes</p>
+
 **15h15 - 17h15** __(Espace livraison - espace des Équinoxes)__ - Conférence gesticulée - atelier : Désintoxication de la Langue de bois - La petite Agitée
 > SCOP d’éducation populaire politique. L’éducation populaire, c’est tout type d’éducation, qui, s’appuyant sur des dynamiquescollectives, cherche l’émancipation individuelle et collective et vise la transformation sociale,par des pédagogies critiques et la participation à la vie démocratique. (Définition largementinspirée des travaux d’Alexia Morvan dans sa thèse de doctorat (2011)). Il s’agit donc, en ouvrant des espaces d’éducation populaire, de permettre à des individus etdes collectifs de prendre conscience des rapports sociaux dans lesquels ils interagissent,puis d’agir pour une transformation de ceux-ci. Cette action de transformation etd’émancipation s’inscrit dans la continuité de Paulo Freire (pédagogue brésilien) qui évoquedavantage la notion de « libération » (que d’émancipation). Elle nous apparaît comme unenécessaire contribution à la réappropriation par le peuple de la vie démocratique.
 
-
-**16h30-17h45** __(Grande scène ou dehors - zone de turbulences)__ - Théâtre **“ Un pas au milieu des dragons ”**, compagnie de l’Hiver Nu
-> Conférence décalée pour lieux insolites, performance en milieu naturel ou comment rire encore face à la catastrophe annoncée...  __Mise en scène – Baptiste Etard. Conception et jeu – Claire Perraudeau, Jean-LucVincent, Laurélie Riffault__
-
-**17h45-19h45** __(Espace livraison - espace des Équinoxes)__ **Conférence gesticulée sur le coût de la mort : comment ne pas laisser ses vieux os au capitalisme ?**
+**17h45-19h45** - **Conférence gesticulée sur le coût de la mort : comment ne pas laisser ses vieux os au capitalisme ?**
 > avec le projet de coopérative funéraire de l’Hérault “Demain il fera jour” et lasécurité sociale de la mort. Il s'agit d'une proposition d'une nouvelle organisation économique de nos obsèques et denos deuils. Nous nous sommes inspiré·es des travaux d'éducation populaire de l'association Réseau Salariat, ainsi que des innovations mises en place dans les coopératives funérairesqui organisent déjà aujourd'hui une alternative au marché des pompes funèbres. Albain Beaudoin et Jean-Loup de Saint-Phalle vous invitent dans une danse macabre dont voussortirez vivants et vivantes, mais pas forcément indemnes.
 
-**20h-21h** __(Espace livraison - espace des Équinoxes)__ **Performance - StéphanieSagot : Les éléments de Langage.**
+**20h-21h** - **Performance - StéphanieSagot : Les éléments de Langage.**
 > En 2016, nous, Suzanne Husky et Stéphanie Sagot, avons decidé de prendre les politiquesagricoles comme objet d’étude central de notre collaboration. Depuis sa création en 1829, leMinistère de l’agriculture met en place des grands plans d’état pour une croissanceexponentielle. Le lien au vivant de cette branche gouvernementale n’est pas clairementénoncé et reste souvent opaque voire invisible. Derrière les éléments de langage desdiscours prêts à s'engager pour le climat, la biodiversité ou le bien-être animal, desstratégies agricoles sont mises en place par les différents gouvernements et les lobbys del’agrobusiness pour industrialiser, rationaliser, robotiser. C'est le développement de fermesusines, les grandes exploitations céréalières, l'agrivoltaïque, l'agro technologie qui sontencouragés dans une vision du monde mortifère fascinée par le progrès technologique pourdominer le vivant.
 
-## Bureau 2 - la planète des possibilités
+#### Bureau 2 - la planète des possibilités
+
 **15h-15h45** - **Monter sa coop, c’est possible**– Urscop et coopérative témoin
 
 *16h-16h45** - Simplifier les statuts coopératifs, c’est possible– Scopyleft
@@ -47,20 +45,28 @@ in_menu: true
 
 **18h-18h45** - Être auto-entrepreneur etsalarié.e, c’est possible avec les coopératives d’activités et d’emploi animé parEscapad, Terracoopa et Crealead
 
-## Petit salon - le big-bang des rencontres
+#### Petit salon - le big-bang des rencontres
+
 **16h-20h** - Rejoindre une coop / toutesdifférentes, toutes adaptées à leurs sujets – Compostons (et le changements destatuts d’une association au modèle coop), Enercoop (le réseau de coopératives) -organisation organique en fonction des coopératives présentes.
 
 **20h-21h** - Ecriture à mille mains du cadre éthique du collectif et questions autour de l’engagement des acteurs publics –animé par les membre du collectif de La Méridionale des Coopératives.
 
 **21h-23h** - Direction les étoiles - Atelier paillettes.
 
-## Bureau 4 - l’astre des images
+#### Bureau 4 - l’astre des images
+
 **14h-21h** - () - Projections defilms Propositions de films sélectionnés par Echovisuel, coopérativeaudiovisuelle et TENK, coopérative plateforme de films documentaires.
 
-## Bureau 3 - le satellite des paroles intimes
+#### Bureau 3 - le satellite des paroles intimes
 **14h-20h** - Captation radiophonique par Radio Clapas. Danielle Manguin 
 
-## Grande scène ou dehors - zone de turbulences
+#### Grande scène ou dehors - zone de turbulences
+
+**14h15 - 15h30** __(Grande scène - zone de turbulences)__ - Conférence d’ouverture : Le rôle des médias dans le changement de culture – quels intérêts d’un modèle coopératif : facilite-t-il l’indépendance ? 
+> avec la participation de : Coopmédias - La Gazette de Montpellier - Blast- et des médias locaux non coopératifs mais engagés : Le Poing, L’empaillée, Pioche magasine !
+
+**16h30-17h45** __(Grande scène ou dehors - zone de turbulences)__ - Théâtre **“ Un pas au milieu des dragons ”**, compagnie de l’Hiver Nu
+> Conférence décalée pour lieux insolites, performance en milieu naturel ou comment rire encore face à la catastrophe annoncée...  __Mise en scène – Baptiste Etard. Conception et jeu – Claire Perraudeau, Jean-LucVincent, Laurélie Riffault__
 
 **18h - 19h** - Opéra-Punk : **le Quartet Buccal présente #VNR**
 
@@ -68,7 +74,7 @@ in_menu: true
 
 **22h - 1h** - concert avec DJ Laser, Compagnie Vol à l’étalage.
 
-# Et en continue sur toute la journée
+### Et en continue sur toute la journée
  
 **Performance - Espace Game** : “Black-out” par le réseau de coopératives productrices d’énergie renouvelable membres d’ECLR, Enercoop LR, la Fondation Macif et le Game Lab 
 
