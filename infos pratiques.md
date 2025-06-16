@@ -3,10 +3,12 @@ title: "Infos pratiques"
 order: 3
 in_menu: true
 ---
-Ici toutes les infos pour passer un bon festival !
+#Ici toutes les infos pour passer un bon festival !
 
 On peut déjà vous dire que ça se passe au **56 Av. du Marché Gare, 34070 Montpellier**.
 
 Les participant.es seront invités à utiliser **la Graine : monnaie locale** comme monnaie unique de festival dans le but de sensibiliser à l’usage de la monnaie. Les participants seront invités à ouvrir leur compte avant l’événement (numérique) ou pendant l’événement (numérique ou version papier). L’adhésion sera à tarif de l’euro symbolique.
  
 **Espace de restauration** sur place avec des propositions salées et sucrées l'après-midi et le soir. 
+
+**Espace enfants** pour les familles, no stress un coin spécial jeux pour les grands et les petits sécurisés avec des animateurs - bénévoles sera là pour accueillir tous les enfants de 14h à 19h. 
