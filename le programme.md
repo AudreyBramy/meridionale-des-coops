@@ -3,9 +3,7 @@ title: "Le programme"
 order: 1
 in_menu: true
 ---
-### Programme détaillé de la journée
-
-#### Avant le début officiel
+<p class="encart">Avant le début officiel</p>
 **10h - midi** Sensibilisation au ramassage des déchets autour du Mas réemploi 
 > Temps animé par la SCIC Sentinelles de Rivières 34. 
 > RDV à 10h devant l'accueil. Sacs et pinces seront fournies mais venir avec ses propres gants et un gilet fluo. Durée adaptable à chacun·e.
@@ -35,7 +33,7 @@ in_menu: true
 **20h-21h** - **Performance - StéphanieSagot : Les éléments de Langage.**
 > En 2016, nous, Suzanne Husky et Stéphanie Sagot, avons decidé de prendre les politiquesagricoles comme objet d’étude central de notre collaboration. Depuis sa création en 1829, leMinistère de l’agriculture met en place des grands plans d’état pour une croissanceexponentielle. Le lien au vivant de cette branche gouvernementale n’est pas clairementénoncé et reste souvent opaque voire invisible. Derrière les éléments de langage desdiscours prêts à s'engager pour le climat, la biodiversité ou le bien-être animal, desstratégies agricoles sont mises en place par les différents gouvernements et les lobbys del’agrobusiness pour industrialiser, rationaliser, robotiser. C'est le développement de fermesusines, les grandes exploitations céréalières, l'agrivoltaïque, l'agro technologie qui sontencouragés dans une vision du monde mortifère fascinée par le progrès technologique pourdominer le vivant.
 
-#### Bureau 2 - la planète des possibilités
+<p class="encart">Bureau 2 - la planète des possibilités</p>
 
 **15h-15h45** - **Monter sa coop, c’est possible**– Urscop et coopérative témoin
 
@@ -45,7 +43,7 @@ in_menu: true
 
 **18h-18h45** - Être auto-entrepreneur etsalarié.e, c’est possible avec les coopératives d’activités et d’emploi animé parEscapad, Terracoopa et Crealead
 
-#### Petit salon - le big-bang des rencontres
+<p class="encart">Petit salon - le big-bang des rencontres</p>
 
 **16h-20h** - Rejoindre une coop / toutesdifférentes, toutes adaptées à leurs sujets – Compostons (et le changements destatuts d’une association au modèle coop), Enercoop (le réseau de coopératives) -organisation organique en fonction des coopératives présentes.
 
@@ -53,14 +51,14 @@ in_menu: true
 
 **21h-23h** - Direction les étoiles - Atelier paillettes.
 
-#### Bureau 4 - l’astre des images
+<p class="encart">Bureau 4 - l’astre des images</p>
 
 **14h-21h** - () - Projections defilms Propositions de films sélectionnés par Echovisuel, coopérativeaudiovisuelle et TENK, coopérative plateforme de films documentaires.
 
-#### Bureau 3 - le satellite des paroles intimes
+<p class="encart">Bureau 3 - le satellite des paroles intimes</p>
 **14h-20h** - Captation radiophonique par Radio Clapas. Danielle Manguin 
 
-#### Grande scène ou dehors - zone de turbulences
+<p class="encart">Grande scène ou dehors - zone de turbulences</p>
 
 **14h15 - 15h30** __(Grande scène - zone de turbulences)__ - Conférence d’ouverture : Le rôle des médias dans le changement de culture – quels intérêts d’un modèle coopératif : facilite-t-il l’indépendance ? 
 > avec la participation de : Coopmédias - La Gazette de Montpellier - Blast- et des médias locaux non coopératifs mais engagés : Le Poing, L’empaillée, Pioche magasine !
@@ -74,7 +72,7 @@ in_menu: true
 
 **22h - 1h** - concert avec DJ Laser, Compagnie Vol à l’étalage.
 
-### Et en continue sur toute la journée
+## Et en continue sur toute la journée
  
 **Performance - Espace Game** : “Black-out” par le réseau de coopératives productrices d’énergie renouvelable membres d’ECLR, Enercoop LR, la Fondation Macif et le Game Lab 
 
