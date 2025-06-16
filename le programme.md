@@ -22,11 +22,9 @@ in_menu: true
 **16h30-17h45** (Grande scène ou dehors - zone de turbulences) - Théâtre **“ Un pas au milieu des dragons ”**, compagnie de l’Hiver Nu – Conférence décalée pour lieux insolites, performance en milieu naturel ou comment rire encore face à la catastrophe annoncée... 
 Mise en scène – Baptiste Etard. Conception et jeu – Claire Perraudeau, Jean-LucVincent, Laurélie Riffault
 
-● 18h - 19h (Grande scène ou dehors - zone de turbulences) - Musique. leQuartet Buccal présente #VNR - arts de la rue et chant à capellaCréé en 1994, avec 17 spectacles à son actif, le Quartet Buccal est un groupe de femmesqui chantent a capella des chansons tendres et drôles, sorte d’Opéra-Punk.Elles revendiquent une liberté de paroles et se donnent le droit de passer par tous les états .En parallèle des représentations, la rencontre avec les publics se place au cœur du projetartistique de la compagnie. Dans le cadre d’interventions artistiques, le groupe aime transmettre son expérience vocale. 
+**18h - 19h** (Grande scène ou dehors - zone de turbulences) - Opéra-Punk : **le Quartet Buccal présente #VNR** -  
 
-● 19h15 - 21h (Grande scène - zone de turbulences) - Danse et musique. Bal Trad- Coop des Arts 
-
-● 21h - 21h30 (Grand scène - zone de turbulence) - Restitution de l’après-midi. 
+● 19h15 - 21h (Grande scène - zone de turbulences) -  Bal Trad- Coop des Arts 
 
 ● 22h - 1h (Grand scène- zone de turbulence) - Musique. DJ Laser CompagnieVol à l’étalageCe personnage assez hybride est né de l’aventure Pile ou Caisse.Et Dj Laser s’étant trouvé une passion pour haranguer les foules et les rassembler, onl’appelle maintenant aussi sans les caisses !« Dj Laser est un pur produit du Sud aux origines diverses. Son grand Kiffe étant de créerune faille spatio-temporelle. Difficile à décrire car il faut le vivre, prêts ? » 
 
