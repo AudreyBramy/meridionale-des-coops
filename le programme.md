@@ -16,11 +16,22 @@ in_menu: true
 **13h** Vélorution
 > Départ du centre ville pour une Vélorution en partenariat avec la coopérative des Coursiers Montpelliérains et associations de cyclistes.
 
+<p class="encart">Grande scène ou dehors - zone de turbulences</p>
+
 **14h** Ouverture officielle __(Grande scène - zone de turbulences)__ 
 > Ballade collective dans l’espace et le temps
 
-**15h30 - 16h00** __(Lieu à confirmer)__ L'innovation sociale a 140ans !! 
-> diffusion d'un court métrage sur le mouvement des scop avec le cryptage de **Pierre Aurio, directeur de l'Union Régionale des SCOP**
+**14h15 - 15h30** __(Grande scène - zone de turbulences)__ - Conférence d’ouverture : Le rôle des médias dans le changement de culture – quels intérêts d’un modèle coopératif : facilite-t-il l’indépendance ? 
+> avec la participation de : Coopmédias - La Gazette de Montpellier - Blast- et des médias locaux non coopératifs mais engagés : Le Poing, L’empaillée, Pioche magasine !
+
+**16h30-17h45** __(Grande scène ou dehors - zone de turbulences)__ - Théâtre **“ Un pas au milieu des dragons ”**, compagnie de l’Hiver Nu
+> Conférence décalée pour lieux insolites, performance en milieu naturel ou comment rire encore face à la catastrophe annoncée...  __Mise en scène – Baptiste Etard. Conception et jeu – Claire Perraudeau, Jean-LucVincent, Laurélie Riffault__
+
+**18h - 19h** - Opéra-Punk : **le Quartet Buccal présente #VNR**
+
+**19h15 - 21h** -  Bal Trad - Coop des Arts 
+
+**22h - 1h** - concert avec DJ Laser, Compagnie Vol à l’étalage.
 
 <p class="encart">Espace livraison - espace des Équinoxes</p>
 
@@ -56,23 +67,9 @@ in_menu: true
 **14h-21h** - () - Projections defilms Propositions de films sélectionnés par Echovisuel, coopérativeaudiovisuelle et TENK, coopérative plateforme de films documentaires.
 
 <p class="encart">Bureau 3 - le satellite des paroles intimes</p>
-**14h-20h** - Captation radiophonique par Radio Clapas. Danielle Manguin 
+**14h-20h** - Captation radiophonique par Radio Clapas. Danielle Manguin
 
-<p class="encart">Grande scène ou dehors - zone de turbulences</p>
-
-**14h15 - 15h30** __(Grande scène - zone de turbulences)__ - Conférence d’ouverture : Le rôle des médias dans le changement de culture – quels intérêts d’un modèle coopératif : facilite-t-il l’indépendance ? 
-> avec la participation de : Coopmédias - La Gazette de Montpellier - Blast- et des médias locaux non coopératifs mais engagés : Le Poing, L’empaillée, Pioche magasine !
-
-**16h30-17h45** __(Grande scène ou dehors - zone de turbulences)__ - Théâtre **“ Un pas au milieu des dragons ”**, compagnie de l’Hiver Nu
-> Conférence décalée pour lieux insolites, performance en milieu naturel ou comment rire encore face à la catastrophe annoncée...  __Mise en scène – Baptiste Etard. Conception et jeu – Claire Perraudeau, Jean-LucVincent, Laurélie Riffault__
-
-**18h - 19h** - Opéra-Punk : **le Quartet Buccal présente #VNR**
-
-**19h15 - 21h** -  Bal Trad - Coop des Arts 
-
-**22h - 1h** - concert avec DJ Laser, Compagnie Vol à l’étalage.
-
-## Et en continue sur toute la journée
+<p class="encart">Et en continue sur toute la journée</p>
  
 **Performance - Espace Game** : “Black-out” par le réseau de coopératives productrices d’énergie renouvelable membres d’ECLR, Enercoop LR, la Fondation Macif et le Game Lab 
 
@@ -92,3 +89,6 @@ in_menu: true
 **Affiches Licoornes** (mise à disposition par Enercoop Languedoc-Roussillon) 24 affiches créées pour Les Licoornes par l’Ecole des Métiers de l’Information, union de 13 coopératives d’intérêt collectif œuvrant à transformer radicalement l’économie en consolidant les projets coopératifs engagés pour une transition environnementale et sociale. 
 
 **14h30 et 23h** - Constellation de coopératives - Ateliers pour seréapproprier les communs (Petit salon et Bureau 2). 
+
+**15h30 - 16h00** __(Lieu à confirmer)__ L'innovation sociale a 140ans !! 
+> diffusion d'un court métrage sur le mouvement des scop avec le cryptage de **Pierre Aurio, directeur de l'Union Régionale des SCOP** 
