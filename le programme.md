@@ -3,7 +3,7 @@ title: "Le programme"
 order: 1
 in_menu: true
 ---
-# Le programme de la journée
+#La Méridionale Matinale
 
 **10h - midi** Sensibilisation au ramassage des déchets autour du Mas réemploi Temps animé par la SCIC Sentinelles de Rivières 34. RDV à 10h devant l'accueil. Sacs et pinces seront fournies (également pour les plus jeunes) mais venir avec ses propres gants et un gilet fluo. Durée adaptable à chacun·e.
 
