@@ -1,7 +1,7 @@
 ---
-title: "Théâtre **“ Un pas au milieu des dragons ”**"
+title: "Théâtre - Un pas au milieu des dragons"
 ---
-__De **16h30-17h45**__ 
+__De **16h30 à 17h45**__ 
 
 __Sur la Grande scène ou dehors__
 __Par la compagnie de l’Hiver Nu__
