@@ -5,7 +5,7 @@ in_menu: true
 ---
 __En cours de construction...__
 
-<p class="encart jaune">**14h** Ouverture officielle __(Grande scène - zone de turbulences)__ </p>
+<p class="encart jaune">**14h** Ouverture officielle sur la Grande scène</p>
 
 <p class="encart beige">Avant le début officiel</p>
 **10h - midi** Sensibilisation au ramassage des déchets autour du Mas réemploi 
@@ -25,8 +25,7 @@ __En cours de construction...__
 **14h15 - 15h30** __(Grande scène - zone de turbulences)__ - Conférence d’ouverture : Le rôle des médias dans le changement de culture – quels intérêts d’un modèle coopératif : facilite-t-il l’indépendance ? 
 > avec la participation de : Coopmédias - La Gazette de Montpellier - Blast- et des médias locaux non coopératifs mais engagés : Le Poing, L’empaillée, Pioche magasine !
 
-**16h30-17h45** __(Grande scène ou dehors - zone de turbulences)__ - Théâtre **“ Un pas au milieu des dragons ”**, compagnie de l’Hiver Nu
-> Conférence décalée pour lieux insolites, performance en milieu naturel ou comment rire encore face à la catastrophe annoncée...  __Mise en scène – Baptiste Etard. Conception et jeu – Claire Perraudeau, Jean-LucVincent, Laurélie Riffault__
+**16h30-17h45** __(Grande scène ou dehors - zone de turbulences)__ - Théâtre **“ Un pas au milieu des dragons ”** par la compagnie de l’Hiver Nu
 
 **18h - 19h** - Opéra-Punk : **le Quartet Buccal présente #VNR**
 
