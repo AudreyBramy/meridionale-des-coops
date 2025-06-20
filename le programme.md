@@ -35,14 +35,11 @@ __En cours de construction...__
 
 <p class="encart">Espace livraison - espace des Équinoxes</p>
 
-**15h15 - 17h15** __(Espace livraison - espace des Équinoxes)__ - Conférence gesticulée - atelier : Désintoxication de la Langue de bois - La petite Agitée
-> SCOP d’éducation populaire politique. L’éducation populaire, c’est tout type d’éducation, qui, s’appuyant sur des dynamiques collectives, cherche l’émancipation individuelle et collective et vise la transformation sociale,par des pédagogies critiques et la participation à la vie démocratique. (Définition largement inspirée des travaux d’Alexia Morvan dans sa thèse de doctorat (2011)). Il s’agit donc, en ouvrant des espaces d’éducation populaire, de permettre à des individus etdes collectifs de prendre conscience des rapports sociaux dans lesquels ils interagissent,puis d’agir pour une transformation de ceux-ci. Cette action de transformation et d’émancipation s’inscrit dans la continuité de Paulo Freire (pédagogue brésilien) qui évoque davantage la notion de « libération » (que d’émancipation). Elle nous apparaît comme unenécessaire contribution à la réappropriation par le peuple de la vie démocratique.
+**15h15 - 17h15** Conférence gesticulée - atelier : Désintoxication de la Langue de bois - La petite Agitée - [Plus d'infos](https://audreybramy.github.io/meridionale-des-coops/2025/06/20/conference-gesticulee-atelier-desintoxication-de-la-langue-de-bois.html) 
 
-**17h45-19h45** - **Conférence gesticulée sur le coût de la mort : comment ne pas laisser ses vieux os au capitalisme ?**
-> avec le projet de coopérative funéraire de l’Hérault “Demain il fera jour” et la sécurité sociale de la mort. Il s'agit d'une proposition d'une nouvelle organisation économique de nos obsèques et de nos deuils. Nous nous sommes inspiré·es des travaux d'éducation populaire de l'association Réseau Salariat, ainsi que des innovations mises en place dans les coopératives funéraires qui organisent déjà aujourd'hui une alternative au marché des pompes funèbres. Albain Beaudoin et Jean-Loup de Saint-Phalle vous invitent dans une danse macabre dont vous sortirez vivants et vivantes, mais pas forcément indemnes.
+**17h45-19h45** -Conférence gesticulée sur le coût de la mort : comment ne pas laisser ses vieux os au capitalisme ? - [Plus d'infos](https://audreybramy.github.io/meridionale-des-coops/2025/06/20/conference-gesticulee-sur-le-cout-de-la-mort-comment-ne-pas-laisser-ses-vieux-os-au-capitalisme.html)
 
-**20h-21h** - **Performance - Stéphanie Sagot : Les éléments de Langage.**
-> En 2016, nous, Suzanne Husky et Stéphanie Sagot, avons decidé de prendre les politiques agricoles comme objet d’étude central de notre collaboration. Depuis sa création en 1829, le Ministère de l’agriculture met en place des grands plans d’état pour une croissance exponentielle. Le lien au vivant de cette branche gouvernementale n’est pas clairement énoncé et reste souvent opaque voire invisible. Derrière les éléments de langage des discours prêts à s'engager pour le climat, la biodiversité ou le bien-être animal, desstratégies agricoles sont mises en place par les différents gouvernements et les lobbys del’agrobusiness pour industrialiser, rationaliser, robotiser. C'est le développement de fermes usines, les grandes exploitations céréalières, l'agrivoltaïque, l'agro technologie qui sont encouragés dans une vision du monde mortifère fascinée par le progrès technologique pour dominer le vivant.
+**20h-21h** - Performance - Stéphanie Sagot : Les éléments de Langage. - [Plus d'infos](https://audreybramy.github.io/meridionale-des-coops/2025/06/20/performance-stephanie-sagot-les-elements-de-langage.html)
 
 <p class="encart">Bureau 2 - la planète des possibilités</p>
 
@@ -82,7 +79,7 @@ __En cours de construction...__
 
 **Expositions photographiques :  “C’est fabriqué près de chez vous”** par Ananda Regi et Les ami·es de La cagette. Photographies et enquêtes sur les producteurs et productrices du supermarché coopératif à but non lucratif.
 
-**Extraits parlés récoltés sur le terrain. (mise à disposition Les Ami-e-s de la cagette) “Ceux qui aiment les lundis”** par Jean-Robert Dantou. Un voyage visuel pour découvrir les sociétés coopératives et participatives françaises, leur histoire, leur fonctionnement, les différents corps de métiers qui sont représentés 
+**Extraits parlés récoltés sur le terrain “Ceux qui aiment les lundis”** par Jean-Robert Dantou. Un voyage visuel pour découvrir les sociétés coopératives et participatives françaises, leur histoire, leur fonctionnement, les différents corps de métiers qui sont représentés 
 
 **Expositions photographiques : “J'ai marché à Pripyat”** par jjkphoto.ch. Pénétrer dans la zone interdite de la centrale de Tchernobyl et de Pripyat ne laisse pas indemne… Une visite en photos pour mieux comprendre l’ambiance étrange et lunaire, alors que nous sommes sur terre (mise à disposition par Enercoop Languedoc-Roussillon)
 
