@@ -1,6 +1,6 @@
 ---
 title: "Infos pratiques"
-order: 3
+order: 4
 in_menu: true
 ---
 ## Ici toutes les infos pour passer un bon festival !
