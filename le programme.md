@@ -27,7 +27,7 @@ __En cours de construction...__
 
 **16h30-17h45** - Théâtre “ Un pas au milieu des dragons ” par la compagnie de l’Hiver Nu - [Plus d'infos](https://audreybramy.github.io/meridionale-des-coops/2025/06/20/theatre-un-pas-au-milieu-des-dragons.html)
 
-**18h - 19h** - Opéra-Punk : **le Quartet Buccal présente #VNR**
+**18h - 19h** - Opéra-Punk : le Quartet Buccal présente #VNR
 
 **19h15 - 21h** - Bal Trad - Coop des Arts 
 
@@ -45,7 +45,7 @@ __En cours de construction...__
 
 **15h-15h45** - **Monter sa coop, c’est possible**– Urscop et coopérative témoin
 
-*16h-16h45** - Simplifier les statuts coopératifs, c’est possible– Scopyleft
+**16h-16h45** - Simplifier les statuts coopératifs, c’est possible– Scopyleft
 
 **17h-17h45** - Valoriser l’immatériel et le capital humain – les richesses de base des modèles coopératifs, c’est possible –avec La Graine, l’Arbre de talents et Sharing value 
 
