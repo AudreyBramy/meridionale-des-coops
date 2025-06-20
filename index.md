@@ -10,12 +10,10 @@ in_menu: true
 2025 : l’Année Internationale des Coopératives, proclamée par l’ONU, une année symbolique pour nous, **Acteurs de l'Economie Sociale et Solidaire**. C'est pourquoi, nous avons voulu créer un **événement Festif le 06 Septembre 2025 au Mas du Réemploi à Montpellier**. Grâce à la constitution d'un collectif de 30 structures de l'ESS situées sur le territoire de Montpellier et ses alentours nous proposons de créer un espace commun de visibilité, de partage et d’actions dans le respect des principes coopératifs de l’Alliance Internationale Coopérative. 
 Ouvert à toutes et à tous, en familles ou entre ami-es, vous allez être plongé dans une galaxie animée : concerts, expo, théâtre, conférences, projections, jeux : espace enfants, workshop ... Toute la journée pour imaginer, rêver et apporter un autre regard sur notre société ... 
 
-
-![L'affiche de l'événement du 6 septembre]({% link images/affiche.2-2.webp %})
-
-
 <a href="https://www.helloasso.com/associations/les-amis-de-la-cagette/evenements/galaxie-cooperative-un-evenement-de-la-meridionale-des-cooperatives" class="bouton">S'inscrire</a>
 
+
+![L'affiche de l'événement du 6 septembre]({% link images/affiche.2-2.webp %})
 
 
 ## Envie de nous rejoindre, dans nos actions ?
@@ -28,3 +26,5 @@ Ouvert à toutes et à tous, en familles ou entre ami-es, vous allez être plong
 - Des structures de l'ESS qui ont envie de participer ou de proposer leurs services.
 
 Pour toutes demandes ou infos sur qui nous sommes, vous pouvez nous envoyez un mail directement : meridionale-des-cooperatives@riseup.net. 
+
+<a href="https://www.helloasso.com/associations/les-amis-de-la-cagette/evenements/galaxie-cooperative-un-evenement-de-la-meridionale-des-cooperatives" class="bouton">S'inscrire</a> 
