@@ -1,7 +1,7 @@
 ---
 title: "Articles"
 order: 1
-in_menu: true
+in_menu: false
 blog_index: true
 ---
 <aside>
