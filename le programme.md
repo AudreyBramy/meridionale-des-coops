@@ -46,7 +46,7 @@ _Avec la participation de : Coopmédias - La Gazette de Montpellier - Blast- et 
 
 <p class="encart">Bureau 2 - la planète des possibilités</p>
 
-**15h-15h45** - **Monter sa coop, c’est possible** – Urscop et coopérative témoin
+**15h-15h45** - Monter sa coop, c’est possible – Urscop et coopérative témoin
 
 **16h-16h45** - Simplifier les statuts coopératifs, c’est possible– Scopyleft
 
@@ -84,7 +84,7 @@ _Avec la participation de : Coopmédias - La Gazette de Montpellier - Blast- et 
  
 **Performance - Espace Game** : “Black-out” par le réseau de coopératives productrices d’énergie renouvelable membres d’ECLR, Enercoop LR, la Fondation Macif et le Game Lab 
 
-**Visites (intergalactiques)** du Mas réemploi 
+**Visites intergalactiques** du Mas réemploi 
 
 **Créer tes slogans pour promouvoir le mouvement coop** - _Près du petit Salon_ - atelier autogéré qui peut courir aussi sur la soirée.
 
@@ -92,4 +92,4 @@ _Avec la participation de : Coopmédias - La Gazette de Montpellier - Blast- et 
 
 **14h30 et 23h** - _Petit salon et Bureau 2_ - Constellation de coopératives - Ateliers pour se réapproprier les communs . 
 
-**15h30 - 16h00** _Lieu à confirmer_ L'innovation sociale a 140ans ! - Diffusion d'un court métrage sur le mouvement des scop avec le cryptage de **Pierre Aurio, directeur de l'Union Régionale des SCOP** 
+**15h30 - 16h00** _Lieu à confirmer_ L'innovation sociale a 140ans ! - Diffusion d'un court métrage sur le mouvement des scop avec le cryptage de Pierre Aurio, directeur de l'Union Régionale des SCOP 
