@@ -13,7 +13,7 @@ __En cours de construction...__
 > Rendez-vous à 10h devant l'accueil. Sacs et pinces seront fournies mais venir avec ses propres gants et un gilet fluo. Durée adaptable à chacun·e.
 
 **11h - 12h** __(Bureau 4)__ : Atelier “Mobilisez-vous pour projeter des films près de chez vous”. __– Enercoop Languedoc-Roussillon /TENK__
-> Propositions de films par la plateforme documentaire TENK en partenariat avec Enercoop Languedoc-Roussillon. Cet atelier est là pour vous inviter à réaliser des projections documentaires près de chez soi grâce à la mise à disposition d’un catalogue de 2 longs métrages et 3 courts métrages, présentation des films et du dispositif.
+[plus d'infos](https://audreybramy.github.io/meridionale-des-coops/2025/06/20/atelier-mobilisez-vous-pour-projeter-des-films-pres-de-chez-vous.html)
 
 **12h30-13h30** - Pic Nic partagé (devant le mas Réemploi). - 
 
