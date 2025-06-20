@@ -5,7 +5,9 @@ in_menu: true
 ---
 __En cours de construction...__
 
-<p class="encart jaune">Avant le début officiel</p>
+<p class="encart jaune">**14h** Ouverture officielle __(Grande scène - zone de turbulences)__ </p>
+
+<p class="encart beige">Avant le début officiel</p>
 **10h - midi** Sensibilisation au ramassage des déchets autour du Mas réemploi 
 > Temps animé par la SCIC Sentinelles de Rivières 34. 
 > Rendez-vous à 10h devant l'accueil. Sacs et pinces seront fournies mais venir avec ses propres gants et un gilet fluo. Durée adaptable à chacun·e.
@@ -17,8 +19,6 @@ __En cours de construction...__
 
 **13h** Vélorution
 > Départ du centre ville pour une Vélorution en partenariat avec la coopérative des Coursiers Montpelliérains et associations de cyclistes.
-
-<p class="encart rose">**14h** Ouverture officielle __(Grande scène - zone de turbulences)__ </p>
 
 <p class="encart">Grande scène - zone de turbulences</p>
 
