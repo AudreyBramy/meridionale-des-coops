@@ -9,11 +9,11 @@
     }
 }
 
-jaune {
-   color: #fcc133;
+.jaune {
+   background-color: #fcc133;
 }
 
 
-beige {
-   color: #f5ede0;
+.beige {
+   background-color: #f5ede0;
 }
