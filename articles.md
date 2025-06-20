@@ -1,7 +1,7 @@
 ---
-layout: page
-title: Articles
-permalink: /articles/
+title: "Articles"
+order: 1
+in_menu: true
 blog_index: true
 ---
 <aside>
@@ -11,11 +11,11 @@ blog_index: true
 
 {% for post in site.posts %}
 <article class="blog-item">
-  <h2>
+  <h3>
     {{ post.title }}
-  </h2>
+  </h3>
 
   <a href="{{post.url | relative_url}}"> Lire l'article <span aria-hidden="true">➞</span></a>
 </article>
 <hr />
-{% endfor %}
+{% endfor %} 
