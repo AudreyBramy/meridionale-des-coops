@@ -25,11 +25,11 @@ __En cours de construction...__
 **14h15 - 15h30** __(Grande scène - zone de turbulences)__ - Conférence d’ouverture : Le rôle des médias dans le changement de culture – quels intérêts d’un modèle coopératif : facilite-t-il l’indépendance ? 
 > avec la participation de : Coopmédias - La Gazette de Montpellier - Blast- et des médias locaux non coopératifs mais engagés : Le Poing, L’empaillée, Pioche magasine !
 
-**16h30-17h45** __(Grande scène ou dehors - zone de turbulences)__ - Théâtre **“ Un pas au milieu des dragons ”** par la compagnie de l’Hiver Nu
+**16h30-17h45** - Théâtre “ Un pas au milieu des dragons ” par la compagnie de l’Hiver Nu - [Plus d'infos](https://audreybramy.github.io/meridionale-des-coops/2025/06/20/theatre-un-pas-au-milieu-des-dragons.html)
 
 **18h - 19h** - Opéra-Punk : **le Quartet Buccal présente #VNR**
 
-**19h15 - 21h** -  Bal Trad - Coop des Arts 
+**19h15 - 21h** - Bal Trad - Coop des Arts 
 
 **22h - 1h** - concert avec DJ Laser, Compagnie Vol à l’étalage.
 
@@ -61,10 +61,21 @@ __En cours de construction...__
 
 <p class="encart">Bureau 4 - l’astre des images</p>
 
-**14h-21h** - () - Projections de films Propositions de films sélectionnés par Echovisuel, coopérative audiovisuelle et TENK, coopérative plateforme de films documentaires.
+**14h-21h** - Projections de films Propositions de films sélectionnés par Echovisuel, coopérative audiovisuelle et TENK, coopérative plateforme de films documentaires.
 
 <p class="encart">Bureau 3 - le satellite des paroles intimes</p>
 **14h-20h** - Captation radiophonique par Radio Clapas. Danielle Manguin
+
+
+<p class="encart">Expositions</p>
+
+**Expositions photographiques :  “C’est fabriqué près de chez vous”** par Ananda Regi et Les ami·es de La cagette. Photographies et enquêtes sur les producteurs et productrices du supermarché coopératif à but non lucratif.
+
+**Extraits parlés récoltés sur le terrain “Ceux qui aiment les lundis”** par Jean-Robert Dantou. Un voyage visuel pour découvrir les sociétés coopératives et participatives françaises, leur histoire, leur fonctionnement, les différents corps de métiers qui sont représentés 
+
+**Expositions photographiques : “J'ai marché à Pripyat”** par jjkphoto.ch. Pénétrer dans la zone interdite de la centrale de Tchernobyl et de Pripyat ne laisse pas indemne… Une visite en photos pour mieux comprendre l’ambiance étrange et lunaire, alors que nous sommes sur terre
+
+**Affiches Licoornes** : 24 affiches créées pour Les Licoornes par l’Ecole des Métiers de l’Information, union de 13 coopératives d’intérêt collectif œuvrant à transformer radicalement l’économie en consolidant les projets coopératifs engagés pour une transition environnementale et sociale. 
 
 <p class="encart">Et en continue sur toute la journée</p>
  
@@ -72,20 +83,10 @@ __En cours de construction...__
 
 **Visites (intergalactiques)** du Mas réemploi 
 
-**Toute la journée** (près du petit Salon). Créer tes slogans pour promouvoir le mouvement coop 
-> atelier autogéré qui peut courir aussi sur la soirée.
+**Créer tes slogans pour promouvoir le mouvement coop** - (près du petit Salon) - atelier autogéré qui peut courir aussi sur la soirée.
 
-**Espace librairie par la Cavale** librairie coopérative de Montpellier. Une sélection d’ouvrages sur le thème de la coopération, des communs et du vivre/faire ensemble. 
+**Espace librairie par la Cavale** - librairie coopérative de Montpellier. Une sélection d’ouvrages sur le thème de la coopération, des communs et du vivre/faire ensemble. 
 
-**Expositions photographiques :  “C’est fabriqué près de chez vous”** par Ananda Regi et Les ami·es de La cagette. Photographies et enquêtes sur les producteurs et productrices du supermarché coopératif à but non lucratif.
+**14h30 et 23h** - (Petit salon et Bureau 2) - Constellation de coopératives - Ateliers pour se réapproprier les communs . 
 
-**Extraits parlés récoltés sur le terrain “Ceux qui aiment les lundis”** par Jean-Robert Dantou. Un voyage visuel pour découvrir les sociétés coopératives et participatives françaises, leur histoire, leur fonctionnement, les différents corps de métiers qui sont représentés 
-
-**Expositions photographiques : “J'ai marché à Pripyat”** par jjkphoto.ch. Pénétrer dans la zone interdite de la centrale de Tchernobyl et de Pripyat ne laisse pas indemne… Une visite en photos pour mieux comprendre l’ambiance étrange et lunaire, alors que nous sommes sur terre (mise à disposition par Enercoop Languedoc-Roussillon)
-
-**Affiches Licoornes** (mise à disposition par Enercoop Languedoc-Roussillon) 24 affiches créées pour Les Licoornes par l’Ecole des Métiers de l’Information, union de 13 coopératives d’intérêt collectif œuvrant à transformer radicalement l’économie en consolidant les projets coopératifs engagés pour une transition environnementale et sociale. 
-
-**14h30 et 23h** - Constellation de coopératives - Ateliers pour seréapproprier les communs (Petit salon et Bureau 2). 
-
-**15h30 - 16h00** __(Lieu à confirmer)__ L'innovation sociale a 140ans !! 
-> diffusion d'un court métrage sur le mouvement des scop avec le cryptage de **Pierre Aurio, directeur de l'Union Régionale des SCOP** 
+**15h30 - 16h00** __(Lieu à confirmer)__ L'innovation sociale a 140ans ! - Diffusion d'un court métrage sur le mouvement des scop avec le cryptage de **Pierre Aurio, directeur de l'Union Régionale des SCOP** 
