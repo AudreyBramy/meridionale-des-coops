@@ -46,7 +46,7 @@ _Avec la participation de : Coopmédias - La Gazette de Montpellier - Blast- et 
 
 <p class="encart">Bureau 2 - la planète des possibilités</p>
 
-**15h-15h45** - Monter sa coop, c’est possible – Urscop et coopérative témoin
+**15h-15h45** - Monter sa coop, c’est possible – L'innovation sociale a 140ans ! - Diffusion d'un court métrage sur le mouvement des scop avec le cryptage de Pierre Aurio, directeur de l'Union Régionale des SCOP
 
 **16h-16h45** - Simplifier les statuts coopératifs, c’est possible– Scopyleft
 
@@ -91,5 +91,3 @@ _Avec la participation de : Coopmédias - La Gazette de Montpellier - Blast- et 
 **Espace librairie par la Cavale** - librairie coopérative de Montpellier. Une sélection d’ouvrages sur le thème de la coopération, des communs et du vivre/faire ensemble. 
 
 **14h30 et 23h** - _Petit salon et Bureau 2_ - Constellation de coopératives - Ateliers pour se réapproprier les communs . 
-
-**15h30 - 16h00** _Lieu à confirmer_ L'innovation sociale a 140ans ! - Diffusion d'un court métrage sur le mouvement des scop avec le cryptage de Pierre Aurio, directeur de l'Union Régionale des SCOP 
