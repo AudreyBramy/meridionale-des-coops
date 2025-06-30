@@ -64,7 +64,7 @@ _Avec la participation de : Coopmédias - La Gazette de Montpellier - Blast- et 
 
 <p class="encart">Bureau 4 - l’astre des images</p>
 
-**14h-21h** - Projections de films Propositions de films sélectionnés par Echovisuel, coopérative audiovisuelle et TENK, coopérative plateforme de films documentaires.
+**14h-21h** - Projections de films sélectionnés par Echo visuel : **" Gouvernail "**, primé au festival international red Cross and Health films en présence de leurs réalisateurs avec débat sur la prise de décision gouvernemental et les choix de notre mode de vie vs impact environnemental et TENK, coopérative plateforme de films documentaires.
 
 <p class="encart">Bureau 3 - le satellite des paroles intimes</p>
 **14h-20h** - Captation radiophonique par Radio Clapas. Danielle Manguin
