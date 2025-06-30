@@ -46,7 +46,7 @@ _Avec la participation de : Coopmédias - La Gazette de Montpellier - Blast- et 
 
 <p class="encart">Bureau 2 - la planète des possibilités</p>
 
-**15h-15h45** - Monter sa coop, c’est possible – L'innovation sociale a 140ans ! - Diffusion d'un court métrage sur le mouvement des scop avec le cryptage de Pierre Aurio, directeur de l'Union Régionale des SCOP
+**15h-15h45** - Monter sa coop, c’est possible – L'innovation sociale a 140ans ! - Diffusion d'un court métrage sur le mouvement des scop avec le cryptage de Pierre Auriau, directeur de l'Union Régionale des SCOP
 
 **16h-16h45** - Simplifier les statuts coopératifs, c’est possible– Scopyleft
 
