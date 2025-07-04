@@ -12,7 +12,7 @@ Ouvert à toutes et à tous, en familles ou entre ami-es, vous allez être plong
 
 <a href="https://www.helloasso.com/associations/les-amis-de-la-cagette/evenements/galaxie-cooperative-un-evenement-de-la-meridionale-des-cooperatives" class="bouton">S'inscrire</a>
 
-![affiche de l'événement du 6 septembre]({% link images/affiche-A3-web.webp %})
+![affiche de l'événement du 6 septembre 2025]({% link images/Design sans titre(6).png %})
 
 
 ## Envie de nous rejoindre, dans nos actions ?
