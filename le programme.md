@@ -44,7 +44,7 @@ _Avec la participation de : Coopmédias - Reporterre - Blast- et des médias loc
 
 **20h-21h** - Performance - Stéphanie Sagot : Les éléments de Langage. - [Plus d'infos](https://audreybramy.github.io/meridionale-des-coops/2025/06/20/performance-stephanie-sagot-les-elements-de-langage.html)
 
-<p class="encart">Bureau 2 - la planète des possibilités</p>
+<p class="encart">Bureau - la planète des possibilités</p>
 
 **15h-15h45** - Monter sa coop, c’est possible – L'innovation sociale a 140ans ! - Diffusion d'un court métrage sur le mouvement des scop avec le cryptage de Pierre Auriau, directeur de l'Union Régionale des SCOP
 
@@ -62,11 +62,11 @@ _Avec la participation de : Coopmédias - Reporterre - Blast- et des médias loc
 
 **21h-23h** - Direction les étoiles - Atelier paillettes.
 
-<p class="encart">Bureau 4 - l’astre des images</p>
+<p class="encart">Bureau - l’astre des images</p>
 
 **14h-21h** - Projections de films sélectionnés par Echo visuel : **" Gouvernail "**, primé au festival international red Cross and Health films en présence de leurs réalisateurs avec débat sur la prise de décision gouvernemental et les choix de notre mode de vie vs impact environnemental et TENK, coopérative plateforme de films documentaires.
 
-<p class="encart">Bureau 3 - le satellite des paroles intimes</p>
+<p class="encart">Bureau - le satellite des paroles intimes</p>
 **14h-20h** - Captation radiophonique par Radio Clapas. Danielle Manguin
 
 
