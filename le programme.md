@@ -26,7 +26,7 @@ _Départ du centre ville pour une Vélorution en partenariat avec la coopérativ
 
 **14h15 - 15h30** _(Grande scène - zone de turbulences)_ - Conférence d’ouverture : Le rôle des médias dans le changement de culture – quels intérêts d’un modèle coopératif : facilite-t-il l’indépendance ?
 
-_Avec la participation de : Coopmédias - Reporterre - Blast- et des médias locaux non coopératifs mais engagés : Le Poing, L’empaillée, Pioche magasine (sous réserve de confirmation) !_
+_Avec la participation de : Coopmédias - Reporterre - Pioche! - et autres (sous réserve de confirmation) !_
 
 **16h30-17h45** - Théâtre “ Un pas au milieu des dragons ” par la compagnie de l’Hiver Nu - [Plus d'infos](https://audreybramy.github.io/meridionale-des-coops/2025/06/20/theatre-un-pas-au-milieu-des-dragons.html)
 
