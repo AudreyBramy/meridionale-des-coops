@@ -24,6 +24,8 @@ _Départ du centre ville pour une Vélorution en partenariat avec la coopérativ
 
 <p class="encart">Grande scène - zone de turbulences</p>
 
+**Tout au long de la journée** Fil rouge artistique avec le Choeur Jazz les Sweeties. 
+
 **14h15 - 15h30** _(Grande scène - zone de turbulences)_ - Conférence d’ouverture : Le rôle des médias dans le changement de culture – quels intérêts d’un modèle coopératif : facilite-t-il l’indépendance ?
 
 _Avec la participation de : Coopmédias - Reporterre - Pioche! - et autres (sous réserve de confirmation) !_
@@ -32,39 +34,48 @@ _Avec la participation de : Coopmédias - Reporterre - Pioche! - et autres (sous
 
 **18h - 19h** - Opéra-Punk : le Quartet Buccal présente #VNR
 
-**19h15 - 21h** - Bal Trad - Coop des Arts 
+**19h30 - 21h** - Bal Trad - Coop des Arts 
 
 **22h - 1h** - concert avec DJ Laser, Compagnie Vol à l’étalage.
 
-<p class="encart">Espace livraison - espace des Équinoxes</p>
+<p class="encart"> Petit salon - espace des Équinoxes</p>
 
-**15h15 - 17h15** - Conférence gesticulée - atelier : Désintoxication de la Langue de bois - La petite Agitée - [Plus d'infos](https://audreybramy.github.io/meridionale-des-coops/2025/06/20/conference-gesticulee-atelier-desintoxication-de-la-langue-de-bois.html) 
+**15h30 - 17h00** - Conférence gesticulée - atelier : Mortelle randonnée pour l'éducation populaire - La petite Agitée - [Plus d'infos](https://audreybramy.github.io/meridionale-des-coops/2025/06/20/conference-gesticulee-atelier-desintoxication-de-la-langue-de-bois.html) 
 
-**17h45-19h45** - Conférence gesticulée sur le coût de la mort : comment ne pas laisser ses vieux os au capitalisme ? - [Plus d'infos](https://audreybramy.github.io/meridionale-des-coops/2025/06/20/conference-gesticulee-sur-le-cout-de-la-mort-comment-ne-pas-laisser-ses-vieux-os-au-capitalisme.html)
+**17h30-19h30** - Conférence gesticulée sur le coût de la mort : comment ne pas laisser ses vieux os au capitalisme ? - [Plus d'infos](https://audreybramy.github.io/meridionale-des-coops/2025/06/20/conference-gesticulee-sur-le-cout-de-la-mort-comment-ne-pas-laisser-ses-vieux-os-au-capitalisme.html)
+
+<p class="encart">Espace de livraison - l’astre des images</p>
+
+**14h-20h** - Projections de films sélectionnés par Echo visuel : 
+**" Gouvernail "**, primé au festival international red Cross and Health films en présence de leurs réalisateurs avec débat sur la prise de décision gouvernemental et les choix de notre mode de vie vs impact environnemental. 
+
+**Diffusion de films sur la coopération** en partenariat avec Enercoop LR et TENK, coopérative plateforme de films documentaires.
+
+**Monter sa coop, c’est possible – L'innovation sociale a 140ans !** - Diffusion d'un court métrage sur le mouvement des scop avec le cryptage de Pierre Auriau, directeur de l'Union Régionale des SCOP.
+
+**Moyen métrage "Los motivos de la selva"** voyage des Zapatistes à travers l'Europe par la Caracol.  
 
 **20h-21h** - Performance - Stéphanie Sagot : Les éléments de Langage. - [Plus d'infos](https://audreybramy.github.io/meridionale-des-coops/2025/06/20/performance-stephanie-sagot-les-elements-de-langage.html)
 
 <p class="encart">Bureau - la planète des possibilités</p>
 
-**15h-15h45** - Monter sa coop, c’est possible – L'innovation sociale a 140ans ! - Diffusion d'un court métrage sur le mouvement des scop avec le cryptage de Pierre Auriau, directeur de l'Union Régionale des SCOP
-
 **16h-16h45** - Simplifier les statuts coopératifs, c’est possible– Scopyleft
 
 **17h-17h45** - Valoriser l’immatériel et le capital humain – les richesses de base des modèles coopératifs, c’est possible –avec La Graine, l’Arbre de talents et Sharing value 
 
-**18h-18h45** - Être auto-entrepreneur et salarié.e, c’est possible avec les coopératives d’activités et d’emploi animé par Escapad, Terracoopa et Crealead
+**18h-18h45** - Être auto-entrepreneur et salarié.e, c’est possible avec les coopératives d’activités et d’emploi
 
-<p class="encart">Petit salon - le big-bang des rencontres</p>
+<p class="encart">Bureaux - les planètes des jeux </p>
+Accessibles aux enfants - en continu
+**14h-20h** - 
+Jeux sur l'énergie : Quizz énergie, Les Economes, La Revolt', Memory de l'énergie, Quizz reçyclage des panneaux solaires par Enercoop Languedoc-Roussillon
+Jeu sur l'alimentation : La Marmite par la caisse alimentaire.
+Jeux sur la coopération : Destination coop.
+Jeux avec processus coopératifs : Hanabi, Galérapagos.
 
-**16h-20h** - Rejoindre une coop / toutes différentes, toutes adaptées à leurs sujets – Compostons (et le changements des tatuts d’une association au modèle coop), Enercoop (le réseau de coopératives) - organisation organique en fonction des coopératives présentes.
+Fais ton collage coopératif : ramenez vos journaux, magasines ou publicités reçues par inadvertance pour une oeuvre collective sur la coopération !
 
-**20h-21h** - Ecriture à mille mains du cadre éthique du collectif et questions autour de l’engagement des acteurs publics –animé par les membre du collectif de La Méridionale des Coopératives.
-
-**21h-23h** - Direction les étoiles - Atelier paillettes.
-
-<p class="encart">Bureau - l’astre des images</p>
-
-**14h-21h** - Projections de films sélectionnés par Echo visuel : **" Gouvernail "**, primé au festival international red Cross and Health films en présence de leurs réalisateurs avec débat sur la prise de décision gouvernemental et les choix de notre mode de vie vs impact environnemental et TENK, coopérative plateforme de films documentaires.
+**20h-22h** - Direction les étoiles - Atelier paillettes.
 
 <p class="encart">Bureau - le satellite des paroles intimes</p>
 **14h-20h** - Captation radiophonique par Radio Clapas. Danielle Manguin
@@ -80,14 +91,21 @@ _Avec la participation de : Coopmédias - Reporterre - Pioche! - et autres (sous
 
 **Affiches Licoornes** : 24 affiches créées pour Les Licoornes par l’École des Métiers de l’Information, union de 13 coopératives d’intérêt collectif œuvrant à transformer radicalement l’économie en consolidant les projets coopératifs engagés pour une transition environnementale et sociale. 
 
+**Expositions photographiques : Seul.e je, ... Ensemble on ..."** Des dizaines de portraits, signés du photographe Miglen Belev, forment une série qui fait la part belle à la créativité et à la poésie. Une ode à l’action collective comme piste pour un monde meilleur proposé par ECLR Occitanie.
+
 <p class="encart">Et en continue sur toute la journée</p>
  
-**Performance - Espace Game** : “Black-out” par le réseau de coopératives productrices d’énergie renouvelable membres d’ECLR, Enercoop LR, la Fondation Macif et le Game Lab 
+**Performance - Espace Game** : “Black-out” par le réseau de coopératives productrices d’énergie renouvelable membres d’ECLR et Enercoop LR.
 
 **Visites intergalactiques** du Mas réemploi 
 
 **Créer tes slogans pour promouvoir le mouvement coop** - _Près du petit Salon_ - atelier autogéré qui peut courir aussi sur la soirée.
+Ateliers autoportants
+
+**Ecriture à mille mains du cadre éthique du collectif et questions autour de l’engagement des acteurs publics** –animé par les membre du collectif de La Méridionale des Coopératives.
 
 **Espace librairie par la Cavale** - librairie coopérative de Montpellier. Une sélection d’ouvrages sur le thème de la coopération, des communs et du vivre/faire ensemble. 
 
-**14h30 et 23h** - _Petit salon et Bureau 2_ - Constellation de coopératives - Ateliers pour se réapproprier les communs . 
+**Photomaton** - Seul.e je fais ma part, Ensemble on fait la différence. Par ECLR Occitanie.
+
+**Cartes postales du monde de demain** - Atelier autoporté.
