@@ -10,7 +10,7 @@ structures se joindre à elle depuis sa création.
 
 **Découvrez-les en cliquant sur leur nom.**
 
-<p class="encart">Coopérative à l’origine du projet :</p>
+<p class="encart">Coopératives et soutiens à l’origine du projet :</p>
 
 - [Enercoop Languedoc-Roussillon](https://www.enercoop.fr/nos-cooperatives/languedoc-roussillon) : coopérative citoyenne de production et promouvant une fourniture d’électricité renouvelable
 - [Les Ami·e·s de la Cagette](https://www.lesami-esdelacagette.fr/) : association d’éducation populaire à l’origine du supermarché
