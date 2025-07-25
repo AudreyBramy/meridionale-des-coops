@@ -20,22 +20,25 @@ coopératif La Cagette
 - [Scopyleft](http://scopyleft.fr/) : coopérative de services aux entreprises
 - [Mycelium](https://mycetraiteur.fr/) : traiteur coopératif à faible impact environnemental, zéro-déchet et végétal, engagé pour une transition écologique et sociale 
 - [Sentinelles de Rivières](https://sdr34.fr/) : coopérative pour la préservation des écosystèmes aquatiques
+- [La NEF](https://www.lanef.com/) : banque coopérative, indépendante et éthique
 
 <p class="encart">Structures qui apportent un soutien financier, une contribution bénévole et le prêt de matériel</p>
 
 - [La Graine](https://lagraine34.org/) : monnaie locale de l’Hérault
 - [L’URSCOP Occitanie Méditerranée](https://www.scopoccitanie.coop/l-association-urscop-occitanie) : fédération et accompagnement des SCOP et SCIC sur le territoire Occitanie Méditerranée
-- [La NEF](https://www.lanef.com/) : banque coopérative, indépendante et éthique
 - [ECOSEC](https://www.ecosec.fr/) : toilettes écologiques et services d’assainissement
 - [Demain il fera jour](https://coopfun34.wordpress.com/) : association qui porte le projet de coopérative funéraire de l’Hérault
 - [La Cagette](https://lacagette-coop.fr/?PagePrincipale) : épicerie coopérative autogérée de Montpellier
 - [Mas réemploi](https://mas-reemploi.fr/) : centre de réemploi de matériaux
-- [La Bulle Bleue](https://www.labullebleue.fr/) : Lieu de fabrique artistique et culturel
+- [Mamasound](https://www.mamasound.fr/) : festivals et agenda culturel de la métropole de Montpellier
+- [Tropisme](https://www.tropisme.coop/) : tiers lieu culturel de Montpellier
+- [La Cavale](https://librairielacavale.coop/) : librairie coopérative de Montpellier
+
+
 
 
 <p class="encart">Structures membres de la méridionale :</p>
 
-- [La Cavale](https://librairielacavale.coop/) : librairie coopérative de Montpellier
 - [TENK](https://www.tenk.fr/) : plateforme de documentaires d’auteur
 - [Compostons](https://www.compostons.org/) : solutions de compostage collectif
 - [Macondo](https://lowtechlab.org/fr/les-outils/annuaire/initiative-recnug5LTpudnhNfj) : tiers lieu coopératif des Low tech
@@ -47,7 +50,6 @@ coopératif La Cagette
 - [Le Game Lab](https://legamelab.com/) : laboratoire du jeu
 - [La Palanquée](https://www.lapalanquee.org/) : tiers lieu culturel du bassin de Thau
 - [UniverScic](https://universcic.wordpress.com/presentation-cooperative/) : coopérative étudiante, prestation de conseil dans l’ESS
-- [Tropisme](https://www.tropisme.coop/) : tiers lieu culturel de Montpellier
 - [En Volt Toit](https://www.en-volt-toit.fr/?AccueiL) : coopérative citoyenne de production d’électricité Montbazin/Poussan
 - VioMe : coopérative grecque, savons et lessive produits vendus à la Cagette
 - [Radio Clapas](https://www.radioclapas.fr/) : radio associative montpelliéraine
@@ -55,10 +57,9 @@ coopératif La Cagette
 - [ECLR](https://ec-lr.org/) : accompagnement de projets citoyens et coopératifs d’énergie renouvelable en Occitanie
 - [L’Arbre de Talents - Ligamen](https://www.linkedin.com/company/ligamen/about/) et[ ](https://www.sharingvalue.fr/)[Sharing Value](https://www.sharingvalue.fr/) : accompagnement et conseil en ESS
 - [2030 Festival](https://2030festival.org/) : micro-festivals urbains et engagés
-- [Mamasound](https://www.mamasound.fr/) : festivals et agenda culturel de la métropole de Montpellier
 - Collectifs expérimentaux autour de la sécurité sociale de la [mort](https://secu-sociale-mort.alwaysdata.net/#/) ou de [l’alimentation](https://tav-montpellier.xyz/?Montpellier)
 - [Ecohabitons](https://ecohabitons.org/) : regroupement de coopératives d’habitant.es, 22 habitats référencés
 - [Vélocité](https://www.velocite-montpellier.fr/) : promotion du vélo du grand Montpellier
-- [Mas réemploi](https://mas-reemploi.fr/) : centre de réemploi de matériaux
+- [La Bulle Bleue](https://www.labullebleue.fr/) : Lieu de fabrique artistique et culturel
 - [Le Quartier Généreux](https://quartiergenereux.fr/) : bar association culturel et politique
 - [La Caracol](https://www.facebook.com/profile.php?id=100068963177309&rdid=8FcbuM7wxwtPh2Wt&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1XhtDynLox%2F) : caravane de convergences pour les Autonomies et les Résistances en Lengadoc 
