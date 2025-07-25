@@ -3,8 +3,6 @@ title: "Le collectif"
 order: 3
 in_menu: true
 ---
-# Qui sommes-nous ?
-
 La méridionale des coopératives est un projet initié par 7 structures qui se sont retrouvées avec l’envie commune de construire et réfléchir à l’avenir sur **la question des communs, du territoire et des valeurs coopératives.**
 
 Ancré dans le territoire et soucieuse de promouvoir un modèle économique alternatif en favorisant les rencontres entre coopératives, habitants, associations, artistes, professionnels et curieux, la Méridionale des coopératives a vu de nombreuses
