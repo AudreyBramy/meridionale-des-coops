@@ -65,7 +65,7 @@ _Avec la participation de : Coopmédias - Reporterre - Pioche! - Gazette de Mont
 
 **18h-18h45** - Être auto-entrepreneur et salarié.e, c’est possible avec les coopératives d’activités et d’emploi
 
-**19h-19h45** - Le saviez-vous ? Une association peut évoluer en coopérative ? Comment ? On vous explique (Compostons, sous réserve de confirmation)
+**19h-19h45** - Le saviez-vous ? Une association peut évoluer en coopérative ? Une entreprise "classique" peut changer de statuts ? On vous explique (Compostons, sous réserve de confirmation)
 
 <p class="encart">Bureaux - les planètes des jeux </p>
 Accessibles aux enfants - en continu
