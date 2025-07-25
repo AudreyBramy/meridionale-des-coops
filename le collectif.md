@@ -1,0 +1,66 @@
+---
+title: "Le collectif"
+order: 6
+in_menu: true
+---
+# Qui sommes-nous ?
+
+La méridionale des coopératives est un projet initié par 7 structures qui se sont retrouvées avec l’envie commune de construire et réfléchir à l’avenir sur **la question des communs, du territoire et des valeurs coopératives.**
+
+Ancré dans le territoire et soucieuse de promouvoir un modèle économique alternatif en favorisant les rencontres entre coopératives, habitants, associations, artistes, professionnels et curieux, la Méridionale des coopératives a vu de nombreuses
+structures se joindre à elle depuis sa création.
+
+**Découvrez-les en cliquant sur leur nom.**
+
+<p class="encart">Coopérative à l’origine du projet :</p>
+
+- [Enercoop Languedoc-Roussillon](https://www.enercoop.fr/nos-cooperatives/languedoc-roussillon) : coopérative citoyenne de production et promouvant une fourniture d’électricité renouvelable
+- [Les Ami·e·s de la Cagette](https://www.lesami-esdelacagette.fr/) : association d’éducation populaire à l’origine du supermarché
+coopératif La Cagette
+- [Echo Visuel](https://echovisuel.fr/accueil/) : coopérative de l’audiovisuel
+- [On dirait le sud](https://www.ondiraitlesud.org/) : association entre culture et bien-être
+- [Scopyleft](http://scopyleft.fr/) : coopérative de services aux entreprises
+- [Mycelium](https://mycetraiteur.fr/) : traiteur coopératif à faible impact environnemental, zéro-déchet et végétal, engagé pour une transition écologique et sociale 
+- [Sentinelles de Rivières](https://sdr34.fr/) : coopérative pour la préservation des écosystèmes aquatiques
+
+<p class="encart">Structures qui apportent un soutien financier, une contribution bénévole et le prêt de matériel</p>
+
+- [La Graine](https://lagraine34.org/) : monnaie locale de l’Hérault
+- [L’URSCOP Occitanie Méditerranée](https://www.scopoccitanie.coop/l-association-urscop-occitanie) : fédération et accompagnement des SCOP et SCIC sur le territoire Occitanie Méditerranée
+- [La NEF](https://www.lanef.com/) : banque coopérative, indépendante et éthique
+- [ECOSEC](https://www.ecosec.fr/) : toilettes écologiques et services d’assainissement
+- [Demain il fera jour](https://coopfun34.wordpress.com/) : association qui porte le projet de coopérative funéraire de l’Hérault
+- [La Cagette](https://lacagette-coop.fr/?PagePrincipale) : épicerie coopérative autogérée de Montpellier
+- [Mas réemploi](https://mas-reemploi.fr/) : centre de réemploi de matériaux
+- [La Bulle Bleue](https://www.labullebleue.fr/) : Lieu de fabrique artistique et culturel
+
+
+<p class="encart">Structures membres de la méridionale :</p>
+
+- [La Cavale](https://librairielacavale.coop/) : librairie coopérative de Montpellier
+- [TENK](https://www.tenk.fr/) : plateforme de documentaires d’auteur
+- [Compostons](https://www.compostons.org/) : solutions de compostage collectif
+- [Macondo](https://lowtechlab.org/fr/les-outils/annuaire/initiative-recnug5LTpudnhNfj) : tiers lieu coopératif des Low tech
+- [Escapad](https://www.escapad.coop/) et[ Terracoopa](https://terracoopa.com/) : coopératives d’activité et d’emploi
+- [Enercoop](https://www.enercoop.fr/) : fournisseur coopératif et solidaire d’énergie renouvelable
+- [Coop des Arts](https://studiolanef.com/) : coopérative des arts du mouvement et de la voix
+- [CoopMédias](https://coopmedias.org/) : coopérative de médias indépendants avec la présence de[ Pioche! ](https://piochemag.fr/)et [Reporterre](https://reporterre.net/)
+- [La Petite Agitée](https://lapetiteagitee.org/les-agite-e-s/) : coopérative d’éducation populaire politique
+- [Le Game Lab](https://legamelab.com/) : laboratoire du jeu
+- [La Palanquée](https://www.lapalanquee.org/) : tiers lieu culturel du bassin de Thau
+- [UniverScic](https://universcic.wordpress.com/presentation-cooperative/) : coopérative étudiante, prestation de conseil dans l’ESS
+- [Tropisme](https://www.tropisme.coop/) : tiers lieu culturel de Montpellier
+- [En Volt Toit](https://www.en-volt-toit.fr/?AccueiL) : coopérative citoyenne de production d’électricité Montbazin/Poussan
+- VioMe : coopérative grecque, savons et lessive produits vendus à la Cagette
+- [Radio Clapas](https://www.radioclapas.fr/) : radio associative montpelliéraine
+- [Les Licoornes](https://leslicoornes.coop/) : réseau de coopératives de la transition
+- [ECLR](https://ec-lr.org/) : accompagnement de projets citoyens et coopératifs d’énergie renouvelable en Occitanie
+- [L’Arbre de Talents - Ligamen](https://www.linkedin.com/company/ligamen/about/) et[ ](https://www.sharingvalue.fr/)[Sharing Value](https://www.sharingvalue.fr/) : accompagnement et conseil en ESS
+- [2030 Festival](https://2030festival.org/) : micro-festivals urbains et engagés
+- [Mamasound](https://www.mamasound.fr/) : festivals et agenda culturel de la métropole de Montpellier
+- Collectifs expérimentaux autour de la sécurité sociale de la [mort](https://secu-sociale-mort.alwaysdata.net/#/) ou de [l’alimentation](https://tav-montpellier.xyz/?Montpellier)
+- [Ecohabitons](https://ecohabitons.org/) : regroupement de coopératives d’habitant.es, 22 habitats référencés
+- [Vélocité](https://www.velocite-montpellier.fr/) : promotion du vélo du grand Montpellier
+- [Mas réemploi](https://mas-reemploi.fr/) : centre de réemploi de matériaux
+- [Le Quartier Généreux](https://quartiergenereux.fr/) : bar association culturel et politique
+- [La Caracol](https://www.facebook.com/profile.php?id=100068963177309&rdid=8FcbuM7wxwtPh2Wt&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1XhtDynLox%2F) : caravane de convergences pour les Autonomies et les Résistances en Lengadoc 
