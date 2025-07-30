@@ -33,6 +33,8 @@ coopératif La Cagette
 - [Mamasound](https://www.mamasound.fr/) : festivals et agenda culturel de la métropole de Montpellier
 - [Tropisme](https://www.tropisme.coop/) : tiers lieu culturel de Montpellier
 - [La Cavale](https://librairielacavale.coop/) : librairie coopérative de Montpellier
+- [La caisse alimentaire commune](https://securite-sociale-alimentation.org/initiative/caisse-commune-de-lalimentation-montpellier/) : expérimentation de la sécurité sociale alimentaire à Montpellier
+- [La gazette](https://www.lagazettedemontpellier.fr/) : journal d'actualité local bientôt en SCIC
 
 
 
