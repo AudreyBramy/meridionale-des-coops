@@ -34,7 +34,7 @@ _Avec la participation de : Coopmédias - Reporterre - Pioche! - Gazette de Mont
 
 **18h - 19h** - Opéra-Punk : le Quartet Buccal présente #VNR
 
-**19h30 - 21h** - Bal Trad - Coop des Arts 
+**19h30 - 21h** - Bal Trad - Coop des Arts [plus d'infos](https://meridionale-des-coops.com/2025/07/30/bal-trad.html)
 
 **22h - 1h** - concert avec DJ Laser, Compagnie Vol à l’étalage.
 
@@ -110,4 +110,4 @@ Ateliers autoportants
 
 **Photomaton** - Seul.e je fais ma part, Ensemble on fait la différence. Par ECLR Occitanie.
 
-**Cartes postales du monde de demain** - Atelier autoporté.
+**Cartes postales du monde de demain** - Atelier autoporté. 
