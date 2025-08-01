@@ -30,19 +30,19 @@ _Départ du centre ville pour une Vélorution en partenariat avec la coopérativ
 
 _Avec la participation de : Coopmédias - Reporterre - Pioche! - Gazette de Montpellier - et autres (sous réserve de confirmation) !_
 
+**15h30 - 17h00** - Conférence gesticulée - atelier : Mortelle randonnée pour l'éducation populaire - La petite Agitée - [Plus d'infos](https://audreybramy.github.io/meridionale-des-coops/2025/06/20/conference-gesticulee-atelier-desintoxication-de-la-langue-de-bois.html) 
+
+**17h30-19h30** - Conférence gesticulée sur le coût de la mort : comment ne pas laisser ses vieux os au capitalisme ? - [Plus d'infos](https://audreybramy.github.io/meridionale-des-coops/2025/06/20/conference-gesticulee-sur-le-cout-de-la-mort-comment-ne-pas-laisser-ses-vieux-os-au-capitalisme.html)
+
+**22h - 1h** - concert avec DJ Laser, Compagnie Vol à l’étalage.
+
+<p class="encart"> Extérieur - espace des Équinoxes</p>
+
 **16h30-17h45** - Théâtre “ Un pas au milieu des dragons ” par la compagnie de l’Hiver Nu - [Plus d'infos](https://audreybramy.github.io/meridionale-des-coops/2025/06/20/theatre-un-pas-au-milieu-des-dragons.html)
 
 **18h - 19h** - Opéra-Punk : le Quartet Buccal présente #VNR
 
 **19h30 - 21h** - Bal Trad - Coop des Arts - [plus d'infos](https://meridionale-des-coops.com/2025/07/30/bal-trad.html)
-
-**22h - 1h** - concert avec DJ Laser, Compagnie Vol à l’étalage.
-
-<p class="encart"> Petit salon - espace des Équinoxes</p>
-
-**15h30 - 17h00** - Conférence gesticulée - atelier : Mortelle randonnée pour l'éducation populaire - La petite Agitée - [Plus d'infos](https://audreybramy.github.io/meridionale-des-coops/2025/06/20/conference-gesticulee-atelier-desintoxication-de-la-langue-de-bois.html) 
-
-**17h30-19h30** - Conférence gesticulée sur le coût de la mort : comment ne pas laisser ses vieux os au capitalisme ? - [Plus d'infos](https://audreybramy.github.io/meridionale-des-coops/2025/06/20/conference-gesticulee-sur-le-cout-de-la-mort-comment-ne-pas-laisser-ses-vieux-os-au-capitalisme.html)
 
 <p class="encart">Espace de livraison - l’astre des images</p>
 
