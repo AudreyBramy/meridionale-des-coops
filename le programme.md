@@ -13,7 +13,7 @@ _En cours de construction..._
 
 _Rendez-vous à 10h devant l'accueil. Sacs et pinces seront fournies mais venir avec ses propres gants et un gilet fluo. Durée adaptable à chacun·e._
 
-**11h - 12h** _(Bureau 4)_ : Atelier “Mobilisez-vous pour projeter des films près de chez vous”. _– Enercoop Languedoc-Roussillon /TENK_ -
+**11h - 12h** _(Espace livraisons)_ : Atelier “Mobilisez-vous pour projeter des films près de chez vous”. _– Enercoop Languedoc-Roussillon /TENK_ -
 [Plus d'infos](https://audreybramy.github.io/meridionale-des-coops/2025/06/20/atelier-mobilisez-vous-pour-projeter-des-films-pres-de-chez-vous.html)
 
 **12h30-13h30** - Pic Nic partagé devant le mas Réemploi
