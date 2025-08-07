@@ -9,13 +9,13 @@ _En cours de construction..._
 
 <p class="encart beige">Avant le début officiel</p>
 
-**10h - midi** - Sensibilisation au ramassage des déchets autour du Mas réemploi - Pa la SCIC Sentinelles de Rivières 34.
+**10h - midi** - Sensibilisation au ramassage des déchets autour du Mas réemploi -par la SCIC Sentinelles de Rivières 34.
 
 _Rendez-vous à 10h devant l'accueil. Sacs et pinces seront fournies mais venir avec ses propres gants et un gilet fluo. Durée adaptable à chacun·e._
 
 **12h30-13h30** - Pic Nic partagé devant le mas Réemploi
 
-**13h** Vélorution
+**13h** Vélorution (départ à venir)
 
 _Départ du centre ville pour une Vélorution en partenariat avec la coopérative des Coursiers Montpelliérains et associations de cyclistes._
 
