@@ -104,6 +104,8 @@ Accessibles aux enfants - en continu
 
 **Photomaton** - Seul.e je fais ma part, Ensemble on fait la différence - par ECLR Occitanie.
 
+**Born to be a  borne** - par ECLR Occitanie et Enercoop Languedoc-Roussillon.
+
 **Cartes postales du monde de demain** - Atelier autoporté. 
 
 **Soirée** - Direction les étoiles - Atelier paillettes.
