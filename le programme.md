@@ -13,9 +13,6 @@ _En cours de construction..._
 
 _Rendez-vous à 10h devant l'accueil. Sacs et pinces seront fournies mais venir avec ses propres gants et un gilet fluo. Durée adaptable à chacun·e._
 
-**11h - 12h** _(Espace livraisons)_ : Atelier “Mobilisez-vous pour projeter des films près de chez vous”. _– Enercoop Languedoc-Roussillon /TENK_ -
-[Plus d'infos](https://audreybramy.github.io/meridionale-des-coops/2025/06/20/atelier-mobilisez-vous-pour-projeter-des-films-pres-de-chez-vous.html)
-
 **12h30-13h30** - Pic Nic partagé devant le mas Réemploi
 
 **13h** Vélorution
@@ -56,7 +53,8 @@ _Avec la participation de : Coopmédias - Reporterre - Pioche! - Gazette de Mont
 **Dont "Gouvernail"**, primé au festival international red Cross and Health films en présence de leurs réalisateurs avec débat sur la prise de décision gouvernemental et les choix de notre mode de vie vs impact environnemental. 
 **Monter sa coop, c’est possible – L'innovation sociale a 140ans !** - Diffusion d'un court métrage sur le mouvement des scop avec le cryptage de Pierre Auriau, directeur de l'Union Régionale des SCOP.
 
-** 17h30 - 18h ** en partenariat avec Enercoop Languedoc-Roussillon et TENK, coopérative plateforme de films documentaires : présentation du dispositif Regards coopératifs et des 5 films séléctionnés :  "Le Balai Libéré", "Food Coop", "Demain l'Usine", "Bateau Ivre" et "Guérande". 
+** 17h30 - 18h ** en partenariat avec Enercoop Languedoc-Roussillon et TENK, coopérative plateforme de films documentaires : présentation du dispositif Regards coopératifs et des 5 films séléctionnés :  "Le Balai Libéré", "Food Coop", "Demain l'Usine", "Bateau Ivre" et "Guérande".
+[Plus d'infos](https://audreybramy.github.io/meridionale-des-coops/2025/06/20/atelier-mobilisez-vous-pour-projeter-des-films-pres-de-chez-vous.html)
 
 **19h30-20h30** - Performance - Stéphanie Sagot : Les éléments de Langage. - [Plus d'infos](https://audreybramy.github.io/meridionale-des-coops/2025/06/20/performance-stephanie-sagot-les-elements-de-langage.html)
 
