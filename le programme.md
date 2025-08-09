@@ -5,7 +5,7 @@ in_menu: true
 ---
 _En cours de construction..._
 
-<p class="encart jaune">14h - Ouverture officielle sur la Grande scène</p>
+<p class="encart jaune">14h00 - Ouverture des portes</p>
 
 <p class="encart beige">Avant le début officiel</p>
 
@@ -23,7 +23,9 @@ _Départ du centre ville pour une Vélorution en partenariat avec la coopérativ
 
 **Tout au long de la journée** Fil rouge artistique avec le Choeur Jazz les Sweeties. 
 
-**14h45 - 16h15** _(Grande scène - zone de turbulences)_ - Conférence d’ouverture : Le rôle des médias dans le changement de culture – quels intérêts d’un modèle coopératif : facilite-t-il l’indépendance ?
+**14h15 ** _(Grande scène - zone de turbulences)_ - Ouverture : Intention de la journée et chorale Jazz.
+
+**14h30 - 16h15** _(Grande scène - zone de turbulences)_ - Conférence d’ouverture : Le rôle des médias dans le changement de culture – quels intérêts d’un modèle coopératif : facilite-t-il l’indépendance ?
 
 _Avec la participation de : Coopmédias - Reporterre - Pioche! - Gazette de Montpellier - et animation par Enercoop Languedoc-Roussillon !_
 
