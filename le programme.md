@@ -23,7 +23,7 @@ _Départ du centre ville pour une Vélorution en partenariat avec la coopérativ
 
 **Tout au long de la journée** Fil rouge artistique avec le Choeur Jazz les Sweeties. 
 
-**14h15 ** _(Grande scène - zone de turbulences)_ - Ouverture : Intention de la journée et chorale Jazz.
+**14h15** _(Grande scène - zone de turbulences)_ - Ouverture : Intention de la journée et chorale Jazz.
 
 **14h30 - 16h15** _(Grande scène - zone de turbulences)_ - Conférence d’ouverture : Le rôle des médias dans le changement de culture – quels intérêts d’un modèle coopératif : facilite-t-il l’indépendance ?
 
