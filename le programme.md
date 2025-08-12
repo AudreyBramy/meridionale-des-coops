@@ -32,7 +32,7 @@ _Avec la participation de : Coopmédias - Reporterre - Pioche! - Gazette de Mont
 
 **16h30 - 18h00** - Conférence gesticulée - atelier : Mortelle randonnée pour l'éducation populaire - La petite Agitée - [Plus d'infos](https://audreybramy.github.io/meridionale-des-coops/2025/06/20/conference-gesticulee-atelier-desintoxication-de-la-langue-de-bois.html) 
 
-**18h30-20h30** - Conférence gesticulée sur le coût de la mort : Une Danse Macabre avec le projet de coopérative funéraire de l'Hérault et le Collectif pour une sécurité sociale de la mort - [Plus d'infos](https://audreybramy.github.io/meridionale-des-coops/2025/06/20/conference-gesticulee-sur-le-cout-de-la-mort-comment-ne-pas-laisser-ses-vieux-os-au-capitalisme.html)
+**18h30 - 20h30** - Conférence gesticulée sur le coût de la mort : Une Danse Macabre avec le projet de coopérative funéraire de l'Hérault et le Collectif pour une sécurité sociale de la mort - [Plus d'infos](https://audreybramy.github.io/meridionale-des-coops/2025/06/20/conference-gesticulee-sur-le-cout-de-la-mort-comment-ne-pas-laisser-ses-vieux-os-au-capitalisme.html)
 
 **Vers 21h30** - Discours de fin avec le collectif de coordo : Enercoop Languedoc-Roussillon, On dirait le sud, Scopyleft/Mycélium, Echovisuel, La Nef et Sentinnelles de Rivières. Et Gâteau d'anniversaire de la Cagette !
 
@@ -51,7 +51,7 @@ _Avec la participation de : Coopmédias - Reporterre - Pioche! - Gazette de Mont
 
 <p class="encart">Espace de livraison - l’astre des images</p>
 
-**14h - 17h30** - Projections de films sélectionnés par Echo visuel, coopérative des arts audiovisuels : 
+**14h30 - 17h30** - Projections de films sélectionnés par Echo visuel, coopérative des arts audiovisuels : 
 **Dont "Gouvernail"**, primé au festival international red Cross and Health films en présence de leurs réalisateurs avec débat sur la prise de décision gouvernemental et les choix de notre mode de vie vs impact environnemental. 
 **Monter sa coop, c’est possible – L'innovation sociale a 140ans !** - Diffusion d'un court métrage sur le mouvement des scop avec le cryptage de Pierre Auriau, directeur de l'Union Régionale des SCOP.
 
@@ -72,14 +72,14 @@ _Avec la participation de : Coopmédias - Reporterre - Pioche! - Gazette de Mont
 
 <p class="encart">Bureaux - les planètes des jeux </p>
 **Accessibles aux enfants - en continu**
-**14h - 19h**
+**14h30 - 19h30**
 -Jeux sur l'énergie : Quizz énergie, Les Economes, La Revolt', Memory de l'énergie, Quizz reçyclage des panneaux solaires par Enercoop Languedoc-Roussillon
 -Jeu sur l'alimentation : La Marmite par la caisse alimentaire.
 -Jeux sur la coopération : Destination coop et Hanabi
 -Fais ton collage coopératif : ramenez vos journaux, magasines ou publicités reçues par inadvertance pour une oeuvre collective sur la coopération !
 
 <p class="encart">Bureau - le satellite des paroles intimes</p>
-**14h-19h** - Captation radiophonique par Radio Clapas. Danielle Manguin
+**14h30 - 19h30** - Captation radiophonique par Radio Clapas. Danielle Manguin
 
 
 <p class="encart">Expositions</p>
