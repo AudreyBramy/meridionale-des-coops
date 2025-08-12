@@ -62,9 +62,9 @@ _Avec la participation de : Coopmédias - Reporterre - Pioche! - Gazette de Mont
 
 <p class="encart"> Bureaux - la planète des possibilités</p>
 
-**16h-16h45** - Comprendre les statuts coopératifs de manière simple pour monter sa coop, c’est possible – par Scopyleft
+**16h15-17h00** - Comprendre les statuts coopératifs de manière simple pour monter sa coop, c’est possible – par Scopyleft
 
-**17h-17h45** - Valoriser l’immatériel et le capital humain – les richesses de base des modèles coopératifs, c’est possible – avec La Graine, l’Arbre de talents et Sharing value 
+**17h05-17h50** - Valoriser l’immatériel et le capital humain – les richesses de base des modèles coopératifs, c’est possible – avec La Graine, l’Arbre de talents et Sharing value 
 
 **18h-18h45** - Être auto-entrepreneur et salarié.e, c’est possible avec les coopératives d’activités et d’emploi
 
