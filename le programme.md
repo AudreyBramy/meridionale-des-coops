@@ -55,7 +55,7 @@ _Avec la participation de : Coopmédias - Reporterre - Pioche! - Gazette de Mont
 **Dont "Gouvernail"**, primé au festival international red Cross and Health films en présence de leurs réalisateurs avec débat sur la prise de décision gouvernemental et les choix de notre mode de vie vs impact environnemental. 
 **Monter sa coop, c’est possible – L'innovation sociale a 140ans !** - Diffusion d'un court métrage sur le mouvement des scop avec le cryptage de Pierre Auriau, directeur de l'Union Régionale des SCOP.
 
-** 17h30 - 18h ** en partenariat avec Enercoop Languedoc-Roussillon et TENK, coopérative plateforme de films documentaires : présentation du dispositif Regards coopératifs et des 5 films séléctionnés :  "Le Balai Libéré", "Food Coop", "Demain l'Usine", "Bateau Ivre" et "Guérande".
+**17h30 - 18h** en partenariat avec Enercoop Languedoc-Roussillon et TENK, coopérative plateforme de films documentaires : présentation du dispositif Regards coopératifs et des 5 films séléctionnés :  "Le Balai Libéré", "Food Coop", "Demain l'Usine", "Bateau Ivre" et "Guérande".
 [Plus d'infos](https://audreybramy.github.io/meridionale-des-coops/2025/06/20/atelier-mobilisez-vous-pour-projeter-des-films-pres-de-chez-vous.html)
 
 **19h30-20h30** - Performance - Stéphanie Sagot : Les éléments de Langage. - [Plus d'infos](https://audreybramy.github.io/meridionale-des-coops/2025/06/20/performance-stephanie-sagot-les-elements-de-langage.html)
@@ -71,7 +71,7 @@ _Avec la participation de : Coopmédias - Reporterre - Pioche! - Gazette de Mont
 **19h-19h45** - Le saviez-vous ? Une association peut évoluer en coopérative ? Une entreprise "classique" peut changer de statuts ? c'est possible (Compostons et Enercoop Languedoc-Roussillon, sous réserve de confirmation)
 
 <p class="encart">Bureaux - les planètes des jeux </p>
-Accessibles aux enfants - en continu
+**Accessibles aux enfants - en continu**
 **14h - 19h**
 -Jeux sur l'énergie : Quizz énergie, Les Economes, La Revolt', Memory de l'énergie, Quizz reçyclage des panneaux solaires par Enercoop Languedoc-Roussillon
 -Jeu sur l'alimentation : La Marmite par la caisse alimentaire.
