@@ -36,7 +36,7 @@ _Avec la participation de : Coopmédias - Reporterre - Pioche! - Gazette de Mont
 
 **Vers 21h30** - Discours de fin avec le collectif de coordo : Enercoop Languedoc-Roussillon, On dirait le sud, Scopyleft/Mycélium, Echovisuel, La Nef et Sentinnelles de Rivières. Et Gâteau d'anniversaire de la Cagette !
 
-**22h30 - 1h30** - concert avec DJ Laser, Compagnie Vol à l’étalage.
+**22h30 - 1h30** - concert avec DJ Laser, Compagnie Vol à l’étalage - [Plus d'infos](http://meridionale-des-coops.com/2025/08/13/dj-laser,-compagnie-vol-a-l-etalage.html)
 
 <p class="encart"> Extérieur - espace des Équinoxes</p>
 
