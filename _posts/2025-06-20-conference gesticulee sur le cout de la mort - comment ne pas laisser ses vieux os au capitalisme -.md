@@ -1,7 +1,7 @@
 ---
 title: "Conférence gesticulée sur le coût de la mort : comment ne pas laisser ses vieux os au capitalisme ?"
 ---
-__De **18h30 à 20h30** __
+De **18h30 à 20h30**
 
 __Dans l'Espace livraison - espace des Équinoxes__
 
