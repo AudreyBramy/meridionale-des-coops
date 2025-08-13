@@ -2,8 +2,8 @@
 title: "Conférence gesticulée - atelier : Désintoxication de la Langue de bois"
 ---
 De **16h30 à 18h00** 
-__Dans l'Espace livraison - espace des Équinoxes__
-Par La petite Agitée
+_Dans l'Espace livraison - espace des Équinoxes_
+_Par La petite Agitée_
 
 SCOP d’éducation populaire politique. L’éducation populaire, c’est tout type d’éducation, qui, s’appuyant sur des dynamiques collectives, cherche l’émancipation individuelle et collective et vise la transformation sociale,par des pédagogies critiques et la participation à la vie démocratique. (Définition largement inspirée des travaux d’Alexia Morvan dans sa thèse de doctorat (2011)). 
 
