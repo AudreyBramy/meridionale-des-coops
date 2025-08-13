@@ -13,7 +13,7 @@ _En cours de construction..._
 
 _Rendez-vous à 10h devant l'accueil. Sacs et pinces seront fournies mais venir avec ses propres gants et un gilet fluo. Durée adaptable à chacun·e._
 
-**12h30-13h30** - Pic Nic partagé devant le mas Réemploi
+**12h30 - 13h30** - Pic Nic partagé devant le mas Réemploi
 
 **13h** Vélorution (départ à venir)
 
@@ -42,7 +42,7 @@ _Avec la participation de : Coopmédias - Reporterre - Pioche! - Gazette de Mont
 
 **16h - 16h15** - Chorale Jazz - Les Sweeties.
 
-**16h15-17h30** - Théâtre “ Un pas au milieu des dragons ” par la compagnie de l’Hiver Nu. Conférence décalée pour lieux insolites ou comment faire face à la catastrophe annoncée.
+**16h15 - 17h30** - Théâtre “ Un pas au milieu des dragons ” par la compagnie de l’Hiver Nu. Conférence décalée pour lieux insolites ou comment faire face à la catastrophe annoncée.
 - [Plus d'infos](https://audreybramy.github.io/meridionale-des-coops/2025/06/20/theatre-un-pas-au-milieu-des-dragons.html)
 
 **18h - 19h30** - Opéra-Punk : le Quartet Buccal présente #VNR
@@ -58,17 +58,17 @@ _Avec la participation de : Coopmédias - Reporterre - Pioche! - Gazette de Mont
 **17h30 - 18h** en partenariat avec Enercoop Languedoc-Roussillon et TENK, coopérative plateforme de films documentaires : présentation du dispositif Regards coopératifs et des 5 films séléctionnés :  "Le Balai Libéré", "Food Coop", "Demain l'Usine", "Bateau Ivre" et "Guérande".
 [Plus d'infos](https://audreybramy.github.io/meridionale-des-coops/2025/06/20/atelier-mobilisez-vous-pour-projeter-des-films-pres-de-chez-vous.html)
 
-**19h30-20h30** - Performance - Stéphanie Sagot : Les éléments de Langage. - [Plus d'infos](https://audreybramy.github.io/meridionale-des-coops/2025/06/20/performance-stephanie-sagot-les-elements-de-langage.html)
+**19h30 - 20h30** - Performance - Stéphanie Sagot : Les éléments de Langage. - [Plus d'infos](https://audreybramy.github.io/meridionale-des-coops/2025/06/20/performance-stephanie-sagot-les-elements-de-langage.html)
 
 <p class="encart"> Bureaux - la planète des possibilités</p>
 
-**16h15-17h00** - Comprendre les statuts coopératifs de manière simple pour monter sa coop, c’est possible – par Scopyleft
+**16h15 - 17h00** - Comprendre les statuts coopératifs de manière simple pour monter sa coop, c’est possible – par Scopyleft
 
-**17h05-17h50** - Valoriser l’immatériel et le capital humain – les richesses de base des modèles coopératifs, c’est possible – avec La Graine, l’Arbre de talents et Sharing value 
+**17h05 - 17h50** - Valoriser l’immatériel et le capital humain – les richesses de base des modèles coopératifs, c’est possible – avec La Graine, l’Arbre de talents et Sharing value 
 
-**18h-18h45** - Être auto-entrepreneur et salarié.e, c’est possible avec les coopératives d’activités et d’emploi
+**18h - 18h45** - Être auto-entrepreneur et salarié.e, c’est possible avec les coopératives d’activités et d’emploi
 
-**19h-19h45** - Le saviez-vous ? Une association peut évoluer en coopérative ? Une entreprise "classique" peut changer de statuts ? c'est possible (Compostons et Enercoop Languedoc-Roussillon, sous réserve de confirmation)
+**19h - 19h45** - Le saviez-vous ? Une association peut évoluer en coopérative ? Une entreprise "classique" peut changer de statuts ? c'est possible (Compostons et Enercoop Languedoc-Roussillon, sous réserve de confirmation)
 
 <p class="encart">Bureaux - les planètes des jeux </p>
 **Accessibles aux enfants - en continu**
@@ -112,5 +112,4 @@ _Avec la participation de : Coopmédias - Reporterre - Pioche! - Gazette de Mont
 
 **Soirée** - Direction les étoiles - Atelier paillettes.
 
-**Soirée** - Black out.
-
+**Soirée** - Black out. 
