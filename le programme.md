@@ -21,7 +21,7 @@ _Départ du centre ville pour une Vélorution en partenariat avec la coopérativ
 
 <p class="encart">Grande scène - zone de turbulences</p>
 
-**Tout au long de la journée** Fil rouge artistique avec le Choeur Jazz les Sweeties. 
+**Tout au long de la journée** Fil rouge artistique avec le Choeur Jazz les Sweeties - [Plus d'infos](http://meridionale-des-coops.com/2025/08/13/choeur-jazz-les-sweeties.html) 
 
 **14h15** _(Grande scène - zone de turbulences)_ - Ouverture : Intention de la journée et chorale Jazz.
 
