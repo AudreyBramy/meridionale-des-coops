@@ -12,4 +12,4 @@ Aussi reine des PMU que gourou des festivals techno, elle est à elle seule la r
 
 Dj Laser est un pur produit du Sud aux origines diverses. Son grand Kiffe étant de créer une faille spatio-temporelle. Difficile à décrire car il faut le vivre, prêts ?
 
-![image]({% link images/Bal de Clôture HR-0557©Natalie_Elkeje.jpeg %})
+![Photo de dj laser en concert]({% link images/Bal de Clôture HR-0557©Natalie_Elkeje.jpeg %})
