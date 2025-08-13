@@ -13,4 +13,4 @@ Au complet, elles sont douze, parce qu’on n’a jamais mieux fait comme multip
 Sous leurs airs et leurs tenues rétro, elles n’en captent pas moins la complicité du public par leur espièglerie.
 Quelques morceaux a cappella, la plupart accompagnés aux clavier, contrebasse et batterie, les Sweeties affectionnent tout autant l’ambiance pro et feutrée d’une salle de spectacle que l’intimité d’un concert chez des particuliers.
 
-![Photo des sweeties]({% link images/Photo opéra.jpg %})
+![Photos des sweeties]({% link images/Crea Tropisme x Méridionale.png %})
