@@ -42,8 +42,7 @@ _Avec la participation de : Coopmédias - Reporterre - Pioche! - Gazette de Mont
 
 **16h - 16h15** - Chorale Jazz - Les Sweeties.
 
-**16h15 - 17h30** - Théâtre “ Un pas au milieu des dragons ” par la compagnie de l’Hiver Nu. Conférence décalée pour lieux insolites ou comment faire face à la catastrophe annoncée.
-- [Plus d'infos](https://audreybramy.github.io/meridionale-des-coops/2025/06/20/theatre-un-pas-au-milieu-des-dragons.html)
+**16h15 - 17h30** - Théâtre “ Un pas au milieu des dragons ” par la compagnie de l’Hiver Nu. Conférence décalée pour lieux insolites ou comment faire face à la catastrophe annoncée - [Plus d'infos](https://audreybramy.github.io/meridionale-des-coops/2025/06/20/theatre-un-pas-au-milieu-des-dragons.html)
 
 **18h - 19h30** - Opéra-Punk : le Quartet Buccal présente #VNR - [Plus d'infos](http://meridionale-des-coops.com/2025/08/13/opera-punk-le-quartet-buccal-presente-vnr.html) 
 
