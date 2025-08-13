@@ -36,7 +36,7 @@ _Avec la participation de : Coopmédias - Reporterre - Pioche! - Gazette de Mont
 
 **Vers 21h30** - Discours de fin avec le collectif de coordo : Enercoop Languedoc-Roussillon, On dirait le sud, Scopyleft/Mycélium, Echovisuel, La Nef et Sentinnelles de Rivières. Et Gâteau d'anniversaire de la Cagette !
 
-**22h30 - 1h30** - concert avec DJ Laser, Compagnie Vol à l’étalage - [Plus d'infos](http://meridionale-des-coops.com/2025/08/13/dj-laser,-compagnie-vol-a-l-etalage.html)
+**22h30 - 1h30** - Concert avec DJ Laser, Compagnie Vol à l’étalage - [Plus d'infos](http://meridionale-des-coops.com/2025/08/13/dj-laser,-compagnie-vol-a-l-etalage.html)
 
 <p class="encart"> Extérieur - espace des Équinoxes</p>
 
@@ -54,7 +54,7 @@ _Avec la participation de : Coopmédias - Reporterre - Pioche! - Gazette de Mont
 **Dont "Gouvernail"**, primé au festival international red Cross and Health films en présence de leurs réalisateurs avec débat sur la prise de décision gouvernemental et les choix de notre mode de vie vs impact environnemental. 
 **Monter sa coop, c’est possible – L'innovation sociale a 140ans !** - Diffusion d'un court métrage sur le mouvement des scop avec le cryptage de Pierre Auriau, directeur de l'Union Régionale des SCOP.
 
-**17h30 - 18h** en partenariat avec Enercoop Languedoc-Roussillon et TENK, coopérative plateforme de films documentaires : présentation du dispositif Regards coopératifs et des 5 films séléctionnés :  "Le Balai Libéré", "Food Coop", "Demain l'Usine", "Bateau Ivre" et "Guérande".
+**17h30 - 18h** En partenariat avec Enercoop Languedoc-Roussillon et TENK, coopérative plateforme de films documentaires : présentation du dispositif Regards coopératifs et des 5 films séléctionnés :  "Le Balai Libéré", "Food Coop", "Demain l'Usine", "Bateau Ivre" et "Guérande".
 [Plus d'infos](https://audreybramy.github.io/meridionale-des-coops/2025/06/20/atelier-mobilisez-vous-pour-projeter-des-films-pres-de-chez-vous.html)
 
 **19h30 - 20h30** - Performance - Stéphanie Sagot : Les éléments de Langage. - [Plus d'infos](https://audreybramy.github.io/meridionale-des-coops/2025/06/20/performance-stephanie-sagot-les-elements-de-langage.html)
