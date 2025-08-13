@@ -1,7 +1,7 @@
 ---
 title: "Conférence gesticulée - atelier : Désintoxication de la Langue de bois"
 ---
-De **15h15 - 17h15** 
+De **16h30 - 18h00** 
 __Dans l'Espace livraison - espace des Équinoxes__
 Par La petite Agitée
 
