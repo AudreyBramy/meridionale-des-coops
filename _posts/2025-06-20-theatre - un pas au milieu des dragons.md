@@ -2,9 +2,8 @@
 title: "Théâtre - Un pas au milieu des dragons"
 ---
 De **16h15 à 17h30**
-
 _Sur la Grande scène ou dehors_
-_par la compagnie de l’Hiver Nu_
+_Par la compagnie de l’Hiver Nu_
 
 Conférence décalée pour lieux insolites, performance en milieu naturel ou comment rire encore face à la catastrophe annoncée...  
 
