@@ -17,7 +17,7 @@ _Rendez-vous à 10h devant l'accueil. Sacs et pinces seront fournies mais venir 
 
 **13h** Vélorution (départ à venir)
 
-_Départ du centre ville pour une Vélorution en partenariat avec la coopérative des Coursiers Montpelliérains et associations de cyclistes._
+_Départ du centre ville pour une Vélorution en partenariat avec Vélocité._
 
 <p class="encart">Grande scène - zone de turbulences</p>
 
