@@ -110,5 +110,3 @@ _Avec la participation de : Coopmédias - Reporterre - Pioche! - Gazette de Mont
 **Cartes postales du monde de demain** - Atelier autoporté. 
 
 **Soirée** - Direction les étoiles - Atelier paillettes.
-
-**Soirée** - Black out. 
