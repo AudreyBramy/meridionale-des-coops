@@ -12,16 +12,15 @@ Ouvert à toutes et à tous, en familles ou entre ami-es, vous allez être plong
 
 <a href="https://www.helloasso.com/associations/les-amis-de-la-cagette/evenements/galaxie-cooperative-un-evenement-de-la-meridionale-des-cooperatives" class="bouton">S'inscrire</a>
 
-Abonne-toi et suis l'aventure :
+![Affiche de l'événement du 6 septembre]({% link images/Affiche.jpg %})
+
+## Abonne-toi et suis l'aventure :
 
 <a href="https://www.instagram.com/meridionale_des_coops/" class="bouton">Instagram</a>
 
 <a href="https://www.facebook.com/events/1409866773608032/?acontext=%7B%22ref%22%3A%2252%22%2C%22action_history%22%3A%22[%7B%5C%22surface%5C%22%3A%5C%22share_link%5C%22%2C%5C%22mechanism%5C%22%3A%5C%22share_link%5C%22%2C%5C%22extra_data%5C%22%3A%7B%5C%22invite_link_id%5C%22%3A659798760559714%7D%7D]%22%7D" class="bouton">Facebook</a>
 
 <a href="https://www.linkedin.com/authwall?trk=bf&trkInfo=AQF4cfLxZeXnIAAAAZi8XPdQLSk3cNQkHJDib2Q2lsQiMao6BHfcCoBi6uLF2CjQYPfd8FLyLCGzd42ZNyW8iL2Gp2QuQRPmpyIfnL8kHEi7w_OdZY7E1OgPriqgzdvrZDykmzw=&original_referer=&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fcompany%2Fm%25C3%25A9ridionale-des-coops%2F" class="bouton">Linkedin</a>
-
-
-![Affiche de l'événement du 6 septembre]({% link images/Affiche.jpg %})
 
 
 ## Envie de nous rejoindre, dans nos actions ?
