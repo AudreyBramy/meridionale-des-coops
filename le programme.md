@@ -15,9 +15,9 @@ _Rendez-vous à 10h devant l'accueil. Sacs et pinces seront fournies mais venir 
 
 **12h30 - 13h30** - Pic Nic partagé devant le mas Réemploi
 
-**13h** Vélorution (départ à venir)
+**14h** Vélorution (départ à venir)
 
-_Départ du centre ville pour une Vélorution en partenariat avec Vélocité._
+_Départ du centre ville pour une Vélorution en partenariat avec Vélocité Le départ aura lieu devant le nouveau local du supermarché coopératif la Cagette, 17 cours Gambetta, direction le Mas Réemploi (quarter marché-gare). ._
 
 <p class="encart">Grande scène - zone de turbulences</p>
 
