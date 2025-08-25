@@ -50,14 +50,18 @@ _Avec la participation de : Coopmédias - Reporterre - Pioche! - Gazette de Mont
 
 <p class="encart">Espace de livraison - l’astre des images</p>
 
-**14h30 - 17h30** - Projections de films sélectionnés par Echo visuel, coopérative des arts audiovisuels : 
+**14h30 - 17h00** - Projections de films sélectionnés par Echo visuel, coopérative des arts audiovisuels : 
 **Dont "Gouvernail"**, primé au festival international red Cross and Health films en présence de leurs réalisateurs avec débat sur la prise de décision gouvernemental et les choix de notre mode de vie vs impact environnemental. 
 **Monter sa coop, c’est possible – L'innovation sociale a 140ans !** - Diffusion d'un court métrage sur le mouvement des scop avec le cryptage de Pierre Auriau, directeur de l'Union Régionale des SCOP.
 
-**17h30 - 18h** En partenariat avec Enercoop Languedoc-Roussillon et TENK, coopérative plateforme de films documentaires : présentation du dispositif Regards coopératifs et des 5 films séléctionnés :  "Le Balai Libéré", "Food Coop", "Demain l'Usine", "Bateau Ivre" et "Guérande".
+**17h00 - 17h30** En partenariat avec Enercoop Languedoc-Roussillon et TENK, coopérative plateforme de films documentaires : présentation du dispositif Regards coopératifs et des 5 films séléctionnés :  "Le Balai Libéré", "Food Coop", "Demain l'Usine", "Bateau Ivre" et "Guérande".
 [Plus d'infos](https://audreybramy.github.io/meridionale-des-coops/2025/06/20/atelier-mobilisez-vous-pour-projeter-des-films-pres-de-chez-vous.html)
 
-**19h30 - 20h30** - Performance - Stéphanie Sagot : Les éléments de Langage. - [Plus d'infos](https://audreybramy.github.io/meridionale-des-coops/2025/06/20/performance-stephanie-sagot-les-elements-de-langage.html)
+**17h30 - 18hO0** Danse contemporaine - Perdu pour perdu - Avec Rachel Delattre, Carla Escamilla Soria, Natalia, Belen Fernández Torrejón, Marilou Le Luherne, Maëlys Pignon et Gaia Tamagnini.Perdu pour perdu est une montagne de sentiments refoulés, comprimés au fond de chacune
+des six danseuses qui tentent de les contenir en vain. À travers différentes situations dans l’espace, le groupe rend compte de l’impossibilité d’occulter le désastre émotionnel causé par le monde extérieur. Oscillant entre tension et soulagement, cette pièce est une tentative
+de réussite à la neutralité formelle. Concept & chorégraphie : Nina Flores
+
+**19h30 - 20h30** - Performance - Stéphanie Sagot : Les nourritures politiques. - [Plus d'infos](https://audreybramy.github.io/meridionale-des-coops/2025/06/20/performance-stephanie-sagot-les-elements-de-langage.html)
 
 <p class="encart"> Bureaux - la planète des possibilités</p>
 
