@@ -1,9 +1,10 @@
 ---
-title: "Performance - Stéphanie Sagot : Les éléments de Langage."
+title: "Performance - Stéphanie Sagot : Les nourritures politiques"
 ---
 De **19h30 à 20h30**
 _Dans l'Espace livraison - espace des Équinoxes_
 
-En 2016, nous, Suzanne Husky et Stéphanie Sagot, avons décidé de prendre les politiques agricoles comme objet d’étude central de notre collaboration. Depuis sa création en 1829, le Ministère de l’agriculture met en place des grands plans d’état pour une croissance exponentielle. Le lien au vivant de cette branche gouvernementale n’est pas clairement énoncé et reste souvent opaque voire invisible. Derrière les éléments de langage des discours prêts à s'engager pour le climat, la biodiversité ou le bien-être animal, des stratégies agricoles sont mises en place par les différents gouvernements et les lobbys de l’agrobusiness pour industrialiser, rationaliser, robotiser. C'est le développement de fermes usines, les grandes exploitations céréalières, l'agrivoltaïque, l'agro technologie qui sont encouragés dans une vision du monde mortifère fascinée par le progrès technologique pour dominer le vivant.
+Dans une lecture qui prend pour point de départ la performance Eléments de langage créée en 2018 (Le Nouveau Ministère de l’Agriculture) portant sur les discours des ministres de l'agriculture français à travers l'Histoire ainsi que sur un corpus d'œuvres issues de la littérature et des arts visuels des XXème et XXIème siècle, j'aborde notre manière de consommer notre Terre. 
+Pour cela, les enjeux d’une monoculture de l’esprit (Vandana Shiva, 1993) et d’un réductionnisme mécaniste du vivant sont mis en perspectives pour aborder entre autres le réengagement contemporain de l’économie de subsistance ainsi que les luttes paysannes. 
 
 ![Photo Stéphanie Sagot]({% link images/Nour.POl. Anattoirs.jpg %})
