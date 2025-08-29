@@ -15,7 +15,7 @@ _Rendez-vous à 10h devant l'accueil. Sacs et pinces seront fournies mais venir 
 
 **12h30 - 13h30** - Pic Nic partagé devant le mas Réemploi
 
-**14h** Vélo-parade
+**14h** - Vélo-parade
 
 _En partenariat avec l'association Vélocité, allons ensemble à vélo au Mas Réemploi (quartier marché-gare).
 Départ du futur local du supermarché coopératif la Cagette, 17 cours Gambetta. »._
