@@ -15,9 +15,10 @@ _Rendez-vous à 10h devant l'accueil. Sacs et pinces seront fournies mais venir 
 
 **12h30 - 13h30** - Pic Nic partagé devant le mas Réemploi
 
-**14h** Vélorution (départ à venir)
+**14h** Vélo-parade
 
-_Départ du centre ville pour une Vélorution en partenariat avec Vélocité Le départ aura lieu devant le nouveau local du supermarché coopératif la Cagette, 17 cours Gambetta, direction le Mas Réemploi (quarter marché-gare). ._
+En partenariat avec l'association Vélocité, allons ensemble à vélo au Mas Réemploi (quartier marché-gare).
+Départ du futur local du supermarché coopératif la Cagette, 17 cours Gambetta. ».
 
 <p class="encart">Grande scène - zone de turbulences</p>
 
@@ -113,4 +114,4 @@ de réussite à la neutralité formelle. Concept & chorégraphie : Nina Flores
 
 **Cartes postales du monde de demain** - Atelier autoporté. 
 
-**Soirée** - Direction les étoiles - Atelier paillettes.
+**Soirée** - Direction les étoiles - Atelier paillettes. 
