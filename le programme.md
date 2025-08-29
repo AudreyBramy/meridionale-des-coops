@@ -18,7 +18,7 @@ _Rendez-vous à 10h devant l'accueil. Sacs et pinces seront fournies mais venir 
 **14h** - Vélo-parade
 
 _En partenariat avec l'association Vélocité, allons ensemble à vélo au Mas Réemploi (quartier marché-gare).
-Départ du futur local du supermarché coopératif la Cagette, 17 cours Gambetta. »._
+Départ du futur local du supermarché coopératif la Cagette, 17 cours Gambetta._
 
 <p class="encart">Grande scène - zone de turbulences</p>
 
