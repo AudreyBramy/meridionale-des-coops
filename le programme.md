@@ -35,7 +35,7 @@ _Avec la participation de : Coopmédias - Reporterre - Pioche! - Gazette de Mont
 
 **18h30 - 20h30** - Conférence gesticulée sur le coût de la mort : Une Danse Macabre avec le projet de coopérative funéraire de l'Hérault et le Collectif pour une sécurité sociale de la mort - [Plus d'infos](https://audreybramy.github.io/meridionale-des-coops/2025/06/20/conference-gesticulee-sur-le-cout-de-la-mort-comment-ne-pas-laisser-ses-vieux-os-au-capitalisme.html)
 
-**Vers 21h30** - Discours de fin avec le collectif de coordo : Enercoop Languedoc-Roussillon, On dirait le sud, Scopyleft/Mycélium, Echovisuel, La Nef et Sentinnelles de Rivières. Et Gâteau d'anniversaire de la Cagette !
+**Vers 21/ 21h30** - Discours de fin avec le collectif de coordination de la Méridionale des coopératives : On dirait le sud, Les Ami.e.s de la Cagette, Scopyleft/Mycélium, Echovisuel, La Nef, Sentinelles de Rivières et Enercoop Languedoc-Roussillon. Puis ... Gâteau d’anniversaire des 8 ans la Cagette et des 20 ans du Réseau Enercoop !
 
 **22h30 - 1h30** - Concert avec DJ Laser, Compagnie Vol à l’étalage - [Plus d'infos](http://meridionale-des-coops.com/2025/08/13/dj-laser,-compagnie-vol-a-l-etalage.html)
 
