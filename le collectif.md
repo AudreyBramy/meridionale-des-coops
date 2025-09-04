@@ -37,8 +37,7 @@ coopératif La Cagette
 
 
 
-
-<p class="encart">Structures membres de la méridionale :</p>
+<p class="encart">Structures qui représentent la Méridionale des Coopératives :</p>
 
 - [TENK](https://www.tenk.fr/) : plateforme de documentaires d’auteur
 - [Compostons](https://www.compostons.org/) : solutions de compostage collectif
