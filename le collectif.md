@@ -65,4 +65,4 @@ coopératif La Cagette
 - [Le Quartier Généreux](https://quartiergenereux.fr/) : bar association culturel et politique
 - [La Caracol](https://www.facebook.com/profile.php?id=100068963177309&rdid=8FcbuM7wxwtPh2Wt&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1XhtDynLox%2F) : caravane de convergences pour les Autonomies et les Résistances en Lengadoc 
 - [La Gazette](https://www.lagazettedemontpellier.fr/) : journal d'actualité local bientôt en SCIC
-- [La Biocoop du Courreau et Clémenceau] [https://www.lagazettedemontpellier.fr/](https://montpellier-courreau.biocoop.net/) : magasins Biocoop à Montpellier
+- [La Biocoop du Courreau et Clémenceau](https://montpellier-courreau.biocoop.net/) : magasins Biocoop à Montpellier
