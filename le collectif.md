@@ -10,7 +10,7 @@ structures se joindre à elle depuis sa création.
 
 **Découvrez-les en cliquant sur leur nom.**
 
-<p class="encart">Coopératives et soutiens à l’origine du projet :</p>
+<p class="encart">Coopératives et soutiens à l’origine du projet de la Méridionale des Coopératives :</p>
 
 - [Enercoop Languedoc-Roussillon](https://www.enercoop.fr/nos-cooperatives/languedoc-roussillon) : coopérative citoyenne de production et promouvant une fourniture d’électricité renouvelable
 - [Les Ami·e·s de la Cagette](https://www.lesami-esdelacagette.fr/) : association d’éducation populaire à l’origine du supermarché
@@ -22,7 +22,7 @@ coopératif La Cagette
 - [Sentinelles de Rivières](https://sdr34.fr/) : coopérative pour la préservation des écosystèmes aquatiques
 - [La NEF](https://www.lanef.com/) : banque coopérative, indépendante et éthique
 
-<p class="encart">Structures qui apportent un soutien financier, une contribution bénévole et le prêt de matériel</p>
+<p class="encart">Structures qui apportent un soutien financier, une contribution bénévole et le prêt de matériel au projet de la Méridionale des Coopératives </p>
 
 - [La Graine](https://lagraine34.org/) : monnaie locale de l’Hérault
 - [L’URSCOP Occitanie Méditerranée](https://www.scopoccitanie.coop/l-association-urscop-occitanie) : fédération et accompagnement des SCOP et SCIC sur le territoire Occitanie Méditerranée
@@ -35,9 +35,7 @@ coopératif La Cagette
 - [La Cavale](https://librairielacavale.coop/) : librairie coopérative de Montpellier
 - [La caisse alimentaire commune](https://securite-sociale-alimentation.org/initiative/caisse-commune-de-lalimentation-montpellier/) : expérimentation de la sécurité sociale alimentaire à Montpellier
 
-
-
-<p class="encart">Structures qui représentent la Méridionale des Coopératives :</p>
+<p class="encart"> Autres structures qui soutiennent le projet de la Méridionale des Coopératives :</p>
 
 - [TENK](https://www.tenk.fr/) : plateforme de documentaires d’auteur
 - [Compostons](https://www.compostons.org/) : solutions de compostage collectif
