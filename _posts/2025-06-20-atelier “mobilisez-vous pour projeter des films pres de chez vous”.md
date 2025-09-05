@@ -1,7 +1,7 @@
 ---
 title: "Atelier “Mobilisez-vous pour projeter des films près de chez vous”."
 ---
-**De 17h30 à 18h**
+**De 17h00 à 17h30**
 _Par Enercoop Languedoc-Roussillon /TENK_
 _Dans le bureau 4._
 
