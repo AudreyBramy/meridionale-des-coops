@@ -72,7 +72,7 @@ de réussite à la neutralité formelle. Concept & chorégraphie : Nina Flores
 
 **18h - 18h45** - Être auto-entrepreneur et salarié.e, c’est possible avec les coopératives d’activités et d’emploi - avec Terracoopa, Crealead et Escapad
 
-**19h - 19h45** - Le saviez-vous ? Une association peut évoluer en coopérative ? Une entreprise "classique" peut changer de statuts ? c'est possible (Compostons et Enercoop Languedoc-Roussillon, sous réserve de confirmation)
+**19h - 19h45** - Le saviez-vous ? Une association peut évoluer en coopérative ? Une entreprise "classique" peut changer de statuts ? c'est possible - avec Compostons et Enercoop Languedoc-Roussillon
 
 <p class="encart">Bureaux - les planètes des jeux </p>
 **Accessibles aux enfants - en continu**
