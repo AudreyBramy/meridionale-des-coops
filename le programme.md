@@ -58,7 +58,7 @@ _Avec la participation de : Coopmédias - Reporterre - Pioche! - Gazette de Mont
 **17h00 - 17h30** En partenariat avec Enercoop Languedoc-Roussillon et TENK, coopérative plateforme de films documentaires : présentation du dispositif Regards coopératifs et des 5 films séléctionnés :  "Le Balai Libéré", "Food Coop", "Demain l'Usine", "Bateau Ivre" et "Guérande".
 [Plus d'infos](https://audreybramy.github.io/meridionale-des-coops/2025/06/20/atelier-mobilisez-vous-pour-projeter-des-films-pres-de-chez-vous.html)
 
-**17h30 - 18hO0** Danse contemporaine - Perdu pour perdu - Avec Rachel Delattre, Carla Escamilla Soria, Natalia, Belen Fernández Torrejón, Marilou Le Luherne, Maëlys Pignon et Gaia Tamagnini.Perdu pour perdu est une montagne de sentiments refoulés, comprimés au fond de chacune
+**17h30 - 18h00** Danse contemporaine - Perdu pour perdu - Avec Rachel Delattre, Carla Escamilla Soria, Natalia, Belen Fernández Torrejón, Marilou Le Luherne, Maëlys Pignon et Gaia Tamagnini.Perdu pour perdu est une montagne de sentiments refoulés, comprimés au fond de chacune
 des six danseuses qui tentent de les contenir en vain. À travers différentes situations dans l’espace, le groupe rend compte de l’impossibilité d’occulter le désastre émotionnel causé par le monde extérieur. Oscillant entre tension et soulagement, cette pièce est une tentative
 de réussite à la neutralité formelle. Concept & chorégraphie : Nina Flores
 
