@@ -54,7 +54,7 @@ coopératif La Cagette
 - [ECLR](https://ec-lr.org/) : accompagnement de projets citoyens et coopératifs d’énergie renouvelable en Occitanie
 - [L’Arbre de Talents - Ligamen](https://www.linkedin.com/company/ligamen/about/) et[ ](https://www.sharingvalue.fr/)[Sharing Value](https://www.sharingvalue.fr/) : accompagnement et conseil en ESS
 - [2030 Festival](https://2030festival.org/) : micro-festivals urbains et engagés
-- Collectifs expérimentaux autour de la sécurité sociale de la [mort](https://secu-sociale-mort.alwaysdata.net/#/) ou de [l’alimentation](https://tav-montpellier.xyz/?Montpellier)
+- [Collectif autour de la Sécurité Sociale de la Mort](https://secu-sociale-mort.alwaysdata.net/#/)
 - [Ecohabitons](https://ecohabitons.org/) : regroupement de coopératives d’habitant.es, 22 habitats référencés
 - [Vélocité](https://www.velocite-montpellier.fr/) : promotion du vélo du grand Montpellier
 - [La Bulle Bleue](https://www.labullebleue.fr/) : Lieu de fabrique artistique et culturel
