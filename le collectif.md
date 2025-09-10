@@ -3,7 +3,7 @@ title: "Le collectif"
 order: 3
 in_menu: true
 ---
-La méridionale des coopératives est un projet initié par 7 structures qui se sont retrouvées avec l’envie commune de construire et réfléchir à l’avenir sur **la question des communs, du territoire et des valeurs coopératives.**
+La méridionale des coopératives est un projet initié par 6 structures qui se sont retrouvées avec l’envie commune de construire et réfléchir à l’avenir sur **la question des communs, du territoire et des valeurs coopératives.**
 
 Ancré dans le territoire et soucieuse de promouvoir un modèle économique alternatif en favorisant les rencontres entre coopératives, habitants, associations, artistes, professionnels et curieux, la Méridionale des coopératives a vu de nombreuses
 structures se joindre à elle depuis sa création.
@@ -16,9 +16,8 @@ structures se joindre à elle depuis sa création.
 - [Les Ami·e·s de la Cagette](https://www.lesami-esdelacagette.fr/) : association d’éducation populaire à l’origine du supermarché
 coopératif La Cagette
 - [Echo Visuel](https://echovisuel.fr/accueil/) : coopérative de l’audiovisuel
+- [Scopyleft](http://scopyleft.fr/) : coopérative de services aux entreprises et sa marque [Mycelium](https://mycetraiteur.fr/) : traiteur coopératif à faible impact environnemental, zéro-déchet et végétal, engagé pour une transition écologique et sociale
 - [On dirait le sud](https://www.ondiraitlesud.org/) : association entre culture et bien-être
-- [Scopyleft](http://scopyleft.fr/) : coopérative de services aux entreprises
-- [Mycelium](https://mycetraiteur.fr/) : traiteur coopératif à faible impact environnemental, zéro-déchet et végétal, engagé pour une transition écologique et sociale 
 - [Sentinelles de Rivières](https://sdr34.fr/) : coopérative pour la préservation des écosystèmes aquatiques
 - [La NEF](https://www.lanef.com/) : banque coopérative, indépendante et éthique
 
