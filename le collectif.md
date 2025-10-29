@@ -8,6 +8,8 @@ La méridionale des coopératives est un projet porté par 7 structures qui se s
 Ancré dans le territoire et soucieuse de promouvoir un modèle économique alternatif en favorisant les rencontres entre coopératives, habitants, associations, artistes, professionnels et curieux, la Méridionale des coopératives a vu de nombreuses
 structures se joindre à elle depuis sa création.
 
+Aujourd'hui, 40 structures se regroupent autour de la promotion des **valeurs coopératives**, d'une **éthique sociale et solidaire** et de **l'agir sur le territoire méridional**.
+
 **Découvrez-les en cliquant sur leur nom.**
 
 <p class="encart">Coopératives et soutiens à l’origine du projet de la Méridionale des Coopératives :</p>
