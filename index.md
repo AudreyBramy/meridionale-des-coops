@@ -7,12 +7,43 @@ in_menu: true
 
 ## La méridionale des coopératives
 
-2025 : l’Année Internationale des Coopératives, proclamée par l’ONU, une année symbolique pour nous, **Acteurs de l'Economie Sociale et Solidaire**. C'est pourquoi, nous avons voulu créer un **événement Festif le 06 Septembre 2025 à Mas Réemploi à Montpellier**. Grâce à la constitution d'un collectif de 40 structures promotrices de **valeurs de l'économie sociale et solidaire** situées sur **le territoire méridional, aujourd'hui à Montpellier,** nous proposons de créer un espace commun de visibilité, de partage et d’actions **dans le respect des principes coopératifs de l’Alliance Internationale Coopérative**. 
-Ouvert à toutes et à tous, en familles ou entre ami-es, vous allez être plongé dans une galaxie animée : concerts, expo, théâtre, conférences, projections, jeux : espace enfants, workshop ... Toute la journée pour imaginer, rêver et apporter un autre regard sur notre société ... 
+2025 : l’Année Internationale des Coopératives, proclamée par l’ONU, une année symbolique pour nous, **Acteurs de l'Economie Sociale et Solidaire**. C'est pourquoi, nous avons créé La Méridionale des Coopératives, un collectif protéiforme pour promouvoir la coopération en Occitanie.
 
-<a href="https://www.helloasso.com/associations/les-amis-de-la-cagette/evenements/galaxie-cooperative-un-evenement-de-la-meridionale-des-cooperatives" class="bouton">S'inscrire</a>
+Et en **2026** on continue !
 
-![Affiche de l'événement du 6 septembre]({% link images/Affiche.jpg %})
+## Les soirées cOOps et cie - Regars Coopératifs
+
+🎬🍿 En 2026, on vous propose des rencontres avec projections de films et des soirées pour parler ( et faire parler ) de nos modèles coopératifs originaux et près de chez vous.
+
+
+Ces deux soirées ont lieu dans le cadre du dispositif hashtag#RegardsCoopératif initié par [Tënk .fr](https://www.on-tenk.com/fr/p/regardscoop) et dont les sociétaires des coopératives sont invités à se saisir !
+
+![Affiche pour les Soirées cOOps et compagnie]({% link images/AFFICHE.png %})
+
+### Le Programme
+- 20 janvier 18h30-20h30 : Film Foodcoop à Montpellier, L'île des possibles
+
+- 21 janvier 19h30-21h : Film Foodcoop à Frontignan, La Hune
+
+- 29 janvier 18h30-20h : Soirée autour du livre "Burn out militant" et  rencontre de l’autrice Hélène Balazard à Montpellier, Quartier Généreux
+
+- 4 février (heure à venir) : Soirée rencontre des coops à Nîmes, bar le Prolé
+
+- 12 février 20h-22h : Film Guérande, un peu de la beauté du monde / + ramène ton apéritif à partager à Montpellier, Biocoop Clémenceau
+
+- 14 février (heure à venir) : Soirée coopérative et film à Bram, tiers lieu La Sauce Bramaise
+
+- 4 mars 18h-19h45 : Film Le Bateau Ivre à Montpellier, Gazette café 
+
+- 12 mars (heure à venir) : Film Le Bateau Ivre à Nîmes, Le Spot
+
+- 15 mars 11h : Film Le Bateau Ivre à Montpellier, Cinéma Utopia 
+
+- 10 avril (heure à venir) : Film Demain l’Usine à Jacou, à la MJC Boby Lapointe
+
+- 14 avril 18h30-20h30 : Film Los Motivos de la Selva et expo photos à Montpellier, La Base
+
+- 23 avril (à valider) 18h30-19h30 : Film We The Power à Montpellier, Le Quartier Généreux
 
 ## Abonne-toi et suis l'aventure :
 
@@ -35,9 +66,3 @@ Ouvert à toutes et à tous, en familles ou entre ami-es, vous allez être plong
 Pour toutes demandes ou infos sur qui nous sommes, vous pouvez nous envoyez un mail directement : meridionale-des-cooperatives@riseup.net. 
 
 <a href="https://www.helloasso.com/associations/les-amis-de-la-cagette/evenements/galaxie-cooperative-un-evenement-de-la-meridionale-des-cooperatives" class="bouton">S'inscrire</a> 
-
-## Envie de nous aider à diffuser l'information ?
-
-Découvre le kit de diffusion et propage galactiquement l'information pour le rendez-vous du 6 septembre !
-
-<a href="https://drive.google.com/drive/folders/1ugZR4BaipP-kWXdrpr7Ivhafzx-Z16oG" class="bouton">Kit de diffusion</a> 
