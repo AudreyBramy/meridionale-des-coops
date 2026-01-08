@@ -1,5 +1,5 @@
 ---
-title: "Le programme"
+title: "Galaxie Coopérative - Le programme"
 order: 1
 in_menu: true
 ---
