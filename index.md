@@ -16,7 +16,7 @@ Et en **2026** on continue !
 🎬🍿 En 2026, on vous propose des rencontres avec projections de films et des soirées pour parler ( et faire parler ) de nos modèles coopératifs originaux et près de chez vous.
 
 
-Ces deux soirées ont lieu dans le cadre du dispositif hashtag#RegardsCoopératif initié par [Tënk .fr](https://www.on-tenk.com/fr/p/regardscoop) et dont les sociétaires des coopératives sont invités à se saisir !
+Ces deux soirées ont lieu dans le cadre du dispositif #RegardsCoopératif initié par [Tënk .fr](https://www.on-tenk.com/fr/p/regardscoop) et dont les sociétaires des coopératives sont invités à se saisir !
 
 ![Affiche pour les Soirées cOOps et compagnie]({% link images/AFFICHE.png %})
 
