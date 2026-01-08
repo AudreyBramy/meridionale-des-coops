@@ -1,6 +1,6 @@
 ---
 title: "Événements Passés"
-order: 7
+order: 2
 in_menu: true
 ---
 ## La Galaxie Coopérative - 6 septembre 2025

@@ -1,7 +1,7 @@
 ---
 title: "Galaxie Coopérative - Le programme"
-order: 1
-in_menu: true
+order: 4
+in_menu: false
 ---
 _En cours de construction..._
 

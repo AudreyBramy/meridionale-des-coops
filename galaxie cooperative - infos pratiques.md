@@ -1,7 +1,7 @@
 ---
 title: "Galaxie Coopérative - Infos pratiques"
-order: 4
-in_menu: true
+order: 5
+in_menu: false
 ---
 ## Ici toutes les infos pour passer un bon festival !
 

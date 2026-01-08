@@ -1,6 +1,6 @@
 ---
 title: "Le collectif"
-order: 3
+order: 1
 in_menu: true
 ---
 La méridionale des coopératives est un projet porté par 7 structures qui se sont retrouvées avec l’envie commune de construire et réfléchir à l’avenir sur **la question des communs, du territoire et des valeurs coopératives.**
