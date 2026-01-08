@@ -1,5 +1,5 @@
 ---
-title: "Infos pratiques"
+title: "Galaxie Coopérative - Infos pratiques"
 order: 4
 in_menu: true
 ---
