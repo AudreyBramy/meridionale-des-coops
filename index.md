@@ -21,7 +21,7 @@ Ces deux soirées ont lieu dans le cadre du dispositif #RegardsCoopératif initi
 ![Affiche pour les Soirées cOOps et compagnie]({% link images/AFFICHE.png %})
 
 ### Le Programme
-*Soirées passées - le 27 nov et le 18 dec 2025 : Films Guérande et Le Bateau Ivre à Sète*
+*Soirées passées - le 27 nov et le 18 dec 2025 : Films Guérande et Le Bateau Ivre à La Palanquée et au Pôle Michèle Weil à Sète*
 
 - **20 janvier 18h30-20h30** : Film “Foodcoop” à Montpellier, L'île des possibles
 - **21 janvier 19h30-21h** : Film “Foodcoop” à Frontignan, La Hune
