@@ -3,16 +3,16 @@ title: "Le collectif"
 order: 1
 in_menu: true
 ---
-La méridionale des coopératives est un projet porté par 7 structures qui se sont retrouvées avec l’envie commune de construire et réfléchir à l’avenir sur **la question des communs, du territoire et des valeurs coopératives.**
+La méridionale des coopératives est un projet initié par 7 structures qui se sont retrouvées avec l’envie commune de construire et réfléchir à l’avenir sur **la question des communs, du territoire et des valeurs coopératives.**
 
 Ancré dans le territoire et soucieuse de promouvoir un modèle économique alternatif en favorisant les rencontres entre coopératives, habitants, associations, artistes, professionnels et curieux, la Méridionale des coopératives a vu de nombreuses
-structures se joindre à elle depuis sa création.
+structures se joindre à elle depuis sa création. Sa gouvernance étant mouvante, vos contributions sont les bienvenues, écrivez-nous pour rejoindre le collectif à **meridionale-des-cooperatives@riseup.net**
 
 Aujourd'hui, 40 structures se regroupent autour de la promotion des **valeurs coopératives**, d'une **éthique sociale et solidaire** et de **l'agir sur le territoire méridional**.
 
 **Découvrez-les en cliquant sur leur nom.**
 
-<p class="encart">Coopératives et soutiens à l’origine du projet de la Méridionale des Coopératives :</p>
+<p class="encart">Coopératives et structures à l’origine du projet de la Méridionale des Coopératives :</p>
 
 - [Enercoop Languedoc-Roussillon](https://www.enercoop.fr/nos-cooperatives/languedoc-roussillon) : coopérative citoyenne de production et promouvant une fourniture d’électricité renouvelable
 - [Les Ami·e·s de la Cagette](https://www.lesami-esdelacagette.fr/) : association d’éducation populaire à l’origine du supermarché
@@ -23,20 +23,20 @@ coopératif La Cagette
 - [Sentinelles de Rivières](https://sdr34.fr/) : coopérative pour la préservation des écosystèmes aquatiques
 - [La NEF](https://www.lanef.com/) : banque coopérative, indépendante et éthique
 
-<p class="encart">Structures qui apportent un soutien financier, une contribution bénévole et le prêt de matériel au projet de la Méridionale des Coopératives </p>
+<p class="encart"> Coopératives et structures qui apportent un soutien financier, une contribution bénévole et le prêt de matériel au projet de la Méridionale des Coopératives </p>
 
 - [La Graine](https://lagraine34.org/) : monnaie locale de l’Hérault
 - [L’URSCOP Occitanie Méditerranée](https://www.scopoccitanie.coop/l-association-urscop-occitanie) : fédération et accompagnement des SCOP et SCIC sur le territoire Occitanie Méditerranée
 - [ECOSEC](https://www.ecosec.fr/) : toilettes écologiques et services d’assainissement
 - [Demain il fera jour](https://coopfun34.wordpress.com/) : association qui porte le projet de coopérative funéraire de l’Hérault
-- [La Cagette](https://lacagette-coop.fr/?PagePrincipale) : épicerie coopérative autogérée de Montpellier
+- [La Cagette](https://lacagette-coop.fr/?PagePrincipale) : supermarché coopératif autogéré de Montpellier
 - [Mas réemploi](https://mas-reemploi.fr/) : centre de réemploi de matériaux
 - [Mamasound](https://www.mamasound.fr/) : festivals et agenda culturel de la métropole de Montpellier
 - [Tropisme](https://www.tropisme.coop/) : tiers lieu culturel de Montpellier
 - [La Cavale](https://librairielacavale.coop/) : librairie coopérative de Montpellier
 - [La caisse alimentaire commune](https://securite-sociale-alimentation.org/initiative/caisse-commune-de-lalimentation-montpellier/) : expérimentation de la sécurité sociale alimentaire à Montpellier
 
-<p class="encart"> Autres structures qui soutiennent le projet de la Méridionale des Coopératives :</p>
+<p class="encart"> Coopératives et structures qui soutiennent le projet de la Méridionale des Coopératives :</p>
 
 - [TENK](https://www.tenk.fr/) : plateforme de documentaires d’auteur
 - [Compostons](https://www.compostons.org/) : solutions de compostage collectif
