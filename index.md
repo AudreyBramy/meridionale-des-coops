@@ -7,7 +7,7 @@ in_menu: true
 
 ## La méridionale des coopératives
 
-2025 : l’Année Internationale des Coopératives, proclamée par l’ONU, une année symbolique pour nous, **Acteurs promoteurs des valeurs de l'Economie Sociale et Solidaire**. C'est pourquoi, nous avons créé La Méridionale des Coopératives, un collectif protéiforme pour promouvoir la coopération dans le sud de la France.
+2025 : l’Année Internationale des Coopératives, proclamée par l’ONU, une année symbolique pour nous, **Acteurs promoteurs des valeurs de l'Economie Sociale et Solidaire**. C'est pourquoi, nous avons créé La Méridionale des Coopératives, **un collectif protéiforme pour promouvoir la coopération dans le sud de la France**.
 
 Et en **2026** on continue !
 
