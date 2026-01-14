@@ -31,10 +31,10 @@ Ces deux soirées ont lieu dans le cadre du dispositif #RegardsCoopératif initi
 - **14 février (heure à venir)** : Soirée coopérative et film à Bram, tiers lieu La Sauce Bramaise
 - **4 mars 18h-19h45** : Film “Le Bateau Ivre” à Montpellier, Gazette café
 - **12 mars 19h-21h** : Film “Le Bateau Ivre” à Nîmes, Le Spot
-- **14 mars (heure à venir)** : Film “Guérande, un peu de la beauté du monde” à Nîmes, Le Bar du Midi
+- **14 mars 17h-19h** : Film “Guérande, un peu de la beauté du monde” à Nîmes, Le Bar du Midi
 - **15 mars 11h** : Brunch partagé et Film “Le Balai libéré” à Montpellier, Cinéma Utopia
 - **26 mars 18h-20h** : Film “Le Balai libéré” à Sète, La Palanquée
-- **28 mars (heure à venir)** : Film ”Demain l'usine” à Nîmes, Bar du Midi
+- **28 mars 17h-19h** : Film ”Demain l'usine” à Nîmes, Bar du Midi
 - **10 avril 20h-22h** : Film “Demain l’Usine” à Jacou, à la MJC Boby Lapointe
 - **14 avril 18h30-20h30** : Film “Los Motivos de la Selva“ et expo photos à Montpellier, La Base
 - **23 avril 18h30-20h00** : Film “We The Power” à Montpellier, Le Quartier Généreux
