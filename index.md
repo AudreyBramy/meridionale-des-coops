@@ -38,7 +38,7 @@ Ces deux soirées ont lieu dans le cadre du dispositif [#RegardsCoopératif init
 - **10 avril 20h-22h** : Film “Demain l’Usine” à Jacou, à la MJC Boby Lapointe
 - **14 avril 18h30-20h30** : Film “Los Motivos de la Selva“ et expo photos à Montpellier, La Base
 - **23 avril 18h30-20h00** : Film “We The Power” à Montpellier, Le Quartier Généreux
-- **7 mai 20h20-22h30** : Ciné en plein air - Guinguette “Des Coops pour Habiter autrement” à Montpellier, Les CEMEA
+- **12 mai 20h20-22h30** : Ciné en plein air - Guinguette “Des Coops pour Habiter autrement” à Montpellier, Les CEMEA
 
 *+ court-métrage surprise au cours de ces dates pour un retour en images sur la Galaxie coopérative qui a eu lieu le 6 septembre 2025 dans le cadre de l’Année Internationale des coopératives*
 
