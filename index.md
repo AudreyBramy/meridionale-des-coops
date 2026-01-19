@@ -26,9 +26,9 @@ Ces soirées ont lieu dans le cadre du dispositif [#RegardsCoopératif initié p
 
 *Soirées passées - le 27 nov et le 18 dec 2025 : Films Guérande et Le Bateau Ivre à La Palanquée et au Pôle Michèle Weil à Sète*
 
-- **20 janvier (18h30-20h30)** : Film “Foodcoop” à Montpellier, L'île des possibles
+- **20 janvier (18h30-20h30)** : Film “Foodcoop” à Montpellier, [L'île des possibles](https://www.helloasso.com/associations/l-ile-des-possibles/evenements/projection-food-coop)
 
-- **21 janvier (19h30-21h)** : Film “Foodcoop” à Frontignan, La Hune
+- **21 janvier (19h30-21h)** : Film “Foodcoop” à Frontignan, [La Hune](https://scopie.eu/evenement/projection-debat-parlons-peu-parlons-coop/)
 
 - **29 janvier (18h30-20h)** : Soirée autour du livre "Burn out militant" et  rencontre de l’autrice Hélène Balazard à Montpellier, Quartier Généreux
 
