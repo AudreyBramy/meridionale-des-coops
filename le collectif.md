@@ -23,7 +23,7 @@ coopératif La Cagette
 - [Sentinelles de Rivières](https://sdr34.fr/) : coopérative pour la préservation des écosystèmes aquatiques
 - [La NEF](https://www.lanef.com/) : banque coopérative, indépendante et éthique
 
-<p class="encart"> Structures qui apportent un soutien notable (financier,bénévole, prêt de matériel) au projet : </p>
+<p class="encart"> Structures qui apportent un soutien significatif (financier,bénévole, prêt de matériel) au projet : </p>
 
 - [La Graine](https://lagraine34.org/) : monnaie locale de l’Hérault
 - [L’URSCOP Occitanie Méditerranée](https://www.scopoccitanie.coop/l-association-urscop-occitanie) : fédération et accompagnement des SCOP et SCIC sur le territoire Occitanie Méditerranée
@@ -37,7 +37,7 @@ coopératif La Cagette
 - [La caisse alimentaire commune](https://securite-sociale-alimentation.org/initiative/caisse-commune-de-lalimentation-montpellier/) : expérimentation de la sécurité sociale alimentaire à Montpellier
 - [Tielle et Pop-Corn](https://www.tielle-et-popcorn.org/) : ciné-club citoyen et itinérant sur le bassin de Thau
 
-<p class="encart"> Structures qui soutiennent le projet :</p>
+<p class="encart"> Structures qui soutiennent ponctuellement le projet :</p>
 
 - [TENK](https://www.tenk.fr/) : plateforme de documentaires d’auteur
 - [Compostons](https://www.compostons.org/) : solutions de compostage collectif
