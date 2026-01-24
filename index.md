@@ -23,11 +23,10 @@ Ces soirées ont lieu dans le cadre du dispositif [#RegardsCoopératif initié p
 ### Le Programme
 
 *Soirées passées - 
-27 novembre, Film "Le Bateau Ivre" à La Palanquée (Sète)
-18 décembre : Film "Guérande" au Pôle Michèle Weil (Sète) 
-20 janvier : Film “Foodcoop” à The Island (Montpellier)
-21 janvier : Film “Foodcoop” à La Hune (Frontignan)
-*
+27 novembre, Film "Le Bateau Ivre" à La Palanquée (Sète).
+18 décembre : Film "Guérande" au Pôle Michèle Weil (Sète). 
+20 janvier : Film “Foodcoop” à The Island (Montpellier).
+21 janvier : Film “Foodcoop” à La Hune (Frontignan).*
 
 # HERAULT
 
