@@ -23,7 +23,7 @@ coopératif La Cagette
 - [Sentinelles de Rivières](https://sdr34.fr/) : coopérative pour la préservation des écosystèmes aquatiques
 - [La NEF](https://www.lanef.com/) : banque coopérative, indépendante et éthique
 
-<p class="encart"> Structures qui apportent un soutien (financier,bénévole, prêt de matériel) au projet : </p>
+<p class="encart"> Structures qui apportent un soutien notable (financier,bénévole, prêt de matériel) au projet : </p>
 
 - [La Graine](https://lagraine34.org/) : monnaie locale de l’Hérault
 - [L’URSCOP Occitanie Méditerranée](https://www.scopoccitanie.coop/l-association-urscop-occitanie) : fédération et accompagnement des SCOP et SCIC sur le territoire Occitanie Méditerranée
