@@ -35,6 +35,7 @@ coopératif La Cagette
 - [Tropisme](https://www.tropisme.coop/) : tiers lieu culturel de Montpellier
 - [La Cavale](https://librairielacavale.coop/) : librairie coopérative de Montpellier
 - [La caisse alimentaire commune](https://securite-sociale-alimentation.org/initiative/caisse-commune-de-lalimentation-montpellier/) : expérimentation de la sécurité sociale alimentaire à Montpellier
+- [Tielle et Pop-Corn](https://www.tielle-et-popcorn.org/) : ciné-club citoyen et itinérant sur le bassin de Thau
 
 <p class="encart"> Coopératives et structures qui soutiennent le projet de la Méridionale des Coopératives :</p>
 
