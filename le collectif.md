@@ -12,7 +12,7 @@ Aujourd'hui, 40 structures se regroupent autour de la promotion des **valeurs co
 
 **Découvrez-les en cliquant sur leur nom.**
 
-<p class="encart">Coopératives et structures à l’origine du projet de la Méridionale des Coopératives :</p>
+<p class="encart">Structures à l’origine du projet :</p>
 
 - [Enercoop Languedoc-Roussillon](https://www.enercoop.fr/nos-cooperatives/languedoc-roussillon) : coopérative citoyenne de production et promouvant une fourniture d’électricité renouvelable
 - [Les Ami·e·s de la Cagette](https://www.lesami-esdelacagette.fr/) : association d’éducation populaire à l’origine du supermarché
@@ -23,7 +23,7 @@ coopératif La Cagette
 - [Sentinelles de Rivières](https://sdr34.fr/) : coopérative pour la préservation des écosystèmes aquatiques
 - [La NEF](https://www.lanef.com/) : banque coopérative, indépendante et éthique
 
-<p class="encart"> Coopératives et structures qui apportent un soutien financier, une contribution bénévole et le prêt de matériel au projet de la Méridionale des Coopératives </p>
+<p class="encart"> Structures qui apportent un soutien (financier,bénévole, prêt de matériel) au projet : </p>
 
 - [La Graine](https://lagraine34.org/) : monnaie locale de l’Hérault
 - [L’URSCOP Occitanie Méditerranée](https://www.scopoccitanie.coop/l-association-urscop-occitanie) : fédération et accompagnement des SCOP et SCIC sur le territoire Occitanie Méditerranée
@@ -37,7 +37,7 @@ coopératif La Cagette
 - [La caisse alimentaire commune](https://securite-sociale-alimentation.org/initiative/caisse-commune-de-lalimentation-montpellier/) : expérimentation de la sécurité sociale alimentaire à Montpellier
 - [Tielle et Pop-Corn](https://www.tielle-et-popcorn.org/) : ciné-club citoyen et itinérant sur le bassin de Thau
 
-<p class="encart"> Coopératives et structures qui soutiennent le projet de la Méridionale des Coopératives :</p>
+<p class="encart"> Structures qui soutiennent le projet :</p>
 
 - [TENK](https://www.tenk.fr/) : plateforme de documentaires d’auteur
 - [Compostons](https://www.compostons.org/) : solutions de compostage collectif
