@@ -42,7 +42,7 @@ Ces soirées ont lieu dans le cadre du dispositif [#RegardsCoopératif initié p
 
 - **10 avril (20h-22h)** : Film “Demain l’Usine” à Jacou, à la MJC Boby Lapointe
 
-- **14 avril (18h30-20h30)** : Film “Los Motivos de la Selva“ et expo photos à Montpellier, La Base
+- **17 avril (18h30-20h30)** : Film “Los Motivos de la Selva“ et expo photos à Montpellier, La Base
 
 - **23 avril (18h30-20h00)** : Film “We The Power” à Montpellier, Le Quartier Généreux
 
