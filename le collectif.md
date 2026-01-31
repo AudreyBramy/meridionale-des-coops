@@ -36,10 +36,11 @@ coopératif La Cagette
 - [La Cavale](https://librairielacavale.coop/) : librairie coopérative de Montpellier
 - [La caisse alimentaire commune](https://securite-sociale-alimentation.org/initiative/caisse-commune-de-lalimentation-montpellier/) : expérimentation de la sécurité sociale alimentaire à Montpellier
 - [Tielle et Pop-Corn](https://www.tielle-et-popcorn.org/) : ciné-club citoyen et itinérant sur le bassin de Thau
+- [TENK](https://www.tenk.fr/) : plateforme de documentaires engagés basée en Ardèche
+- [WINDCOOP](https://www.wind.coop/) : Compagnie maritime militante dont le premier port est Marseille
 
 <p class="encart"> Structures qui soutiennent ponctuellement le projet :</p>
 
-- [TENK](https://www.tenk.fr/) : plateforme de documentaires d’auteur
 - [Compostons](https://www.compostons.org/) : solutions de compostage collectif
 - [Macondo](https://lowtechlab.org/fr/les-outils/annuaire/initiative-recnug5LTpudnhNfj) : tiers lieu coopératif des Low tech
 - [Escapad](https://www.escapad.coop/),[Terracoopa](https://terracoopa.com/) et [Crealead](https://www.crealead.com/accueil): coopératives d’activité et d’emploi
