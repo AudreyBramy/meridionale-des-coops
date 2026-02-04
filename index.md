@@ -26,11 +26,11 @@ Ces soirées ont lieu dans le cadre du dispositif [#RegardsCoopératif initié p
 27 novembre, Film "Le Bateau Ivre" à La Palanquée (Sète).
 18 décembre : Film "Guérande" au Pôle Michèle Weil (Sète). 
 20 janvier : Film “Foodcoop” à The Island (Montpellier).
-21 janvier : Film “Foodcoop” à La Hune (Frontignan).*
+21 janvier : Film “Foodcoop” à La Hune (Frontignan).
+29 janvier : Soirée autour du livre "Burn out militant" et  rencontre de l’autrice Hélène Balazard au Quartier Généreux (Montpellier).*
 
 # HERAULT
 
-- **29 janvier (18h30-20h)** : Soirée autour du livre "Burn out militant" et  rencontre de l’autrice Hélène Balazard à Montpellier, Quartier Généreux
 
 - **12 février (20h-22h)** : Apéro partagé et Film “Guérande, un peu de la beauté du monde” à Montpellier, Biocoop Clémenceau
 
@@ -62,7 +62,7 @@ Ces soirées ont lieu dans le cadre du dispositif [#RegardsCoopératif initié p
 
 # AUDE
 
-- **14 février (heure à venir)** : Soirée coopérative et film à Bram, tiers lieu La Sauce Bramaise
+- **14 février (19h30-21h30)** : Film “Guérande, un peu de la beauté du monde” à Bram, tiers lieu La Sauce Bramaise
 
 - **Date et heure à venir** :  Soirée Film à Narbonne, Narbonne, Théâtre Scène nationale Grand Narbonne
 
