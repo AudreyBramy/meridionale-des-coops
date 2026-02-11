@@ -20,7 +20,9 @@ Ces soirées ont lieu dans le cadre du dispositif [#RegardsCoopératif initié p
 
 ![Affiche pour les Soirées cOOps et compagnie]({% link images/AFFICHE.png %})
 
-### Le Programme
+### Le Programme 
+
+**(entrées libres et gratuites)**
 
 *Soirées passées :*
 - *27 novembre, Film "Le Bateau Ivre" à La Palanquée (Sète)*
@@ -29,8 +31,8 @@ Ces soirées ont lieu dans le cadre du dispositif [#RegardsCoopératif initié p
 - *21 janvier : Film “Foodcoop” à La Hune (Frontignan)*
 - *29 janvier : Soirée autour du livre "Burn out militant" et  rencontre de l’autrice Hélène Balazard au Quartier Généreux (Montpellier)*
 
-# HERAULT
 
+# HERAULT
 
 - **12 février (20h-22h)** : Apéro partagé et Film “Guérande, un peu de la beauté du monde” à Montpellier, Biocoop Clémenceau
 
