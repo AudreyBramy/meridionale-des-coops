@@ -22,12 +22,12 @@ Ces soirées ont lieu dans le cadre du dispositif [#RegardsCoopératif initié p
 
 ### Le Programme
 
-*Soirées passées - 
-27 novembre, Film "Le Bateau Ivre" à La Palanquée (Sète).
-18 décembre : Film "Guérande" au Pôle Michèle Weil (Sète). 
-20 janvier : Film “Foodcoop” à The Island (Montpellier).
-21 janvier : Film “Foodcoop” à La Hune (Frontignan).
-29 janvier : Soirée autour du livre "Burn out militant" et  rencontre de l’autrice Hélène Balazard au Quartier Généreux (Montpellier).*
+*Soirées passées :*
+- *27 novembre, Film "Le Bateau Ivre" à La Palanquée (Sète)*
+- *18 décembre : Film "Guérande" au Pôle Michèle Weil (Sète)* 
+- *20 janvier : Film “Foodcoop” à The Island (Montpellier)*
+- *21 janvier : Film “Foodcoop” à La Hune (Frontignan)*
+- *29 janvier : Soirée autour du livre "Burn out militant" et  rencontre de l’autrice Hélène Balazard au Quartier Généreux (Montpellier)*
 
 # HERAULT
 
@@ -38,7 +38,7 @@ Ces soirées ont lieu dans le cadre du dispositif [#RegardsCoopératif initié p
 
 - **15 mars (11h-13h)** : Brunch partagé et Film “Le Balai libéré” à Montpellier, Cinéma Utopia
 
-- **26 mars (18h-20h)** : Film “Le Balai libéré” à Sète, La Palanquée
+- **24 mars (18h-20h)** : Film “Le Balai libéré” à Sète, La Palanquée
 
 - **10 avril (20h-22h)** : Film “Demain l’Usine” à Jacou, à la MJC Boby Lapointe
 
