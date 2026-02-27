@@ -27,13 +27,13 @@ Ces soirées ont lieu dans le cadre du dispositif [#RegardsCoopératif initié p
 - *18 décembre : Film "Guérande" au Pôle Michèle Weil (Sète)* 
 - *20 janvier : Film “Foodcoop” à The Island (Montpellier)*
 - *21 janvier : Film “Foodcoop” à La Hune (Frontignan)*
-- *29 janvier : Soirée autour du livre "Burn out militant" et  rencontre de l’autrice Hélène Balazard au Quartier Généreux (Montpellier)*
+- *29 janvier : Soirée autour du livre "Burn out militant" et  rencontre de l’autrice Hélène Balazard au Quartier Généreux (Montpellier)
+- 12 février : Apéro partagé et Film “Guérande, un peu de la beauté du monde” à la Biocoop Clémenceau (Montpellier)
+-  14 février : Film “Guérande, un peu de la beauté du monde” à La Sauce Bramaise (Bram)*
 
 **(Toutes les soirées sont en entrées libres et gratuites)**
 
 # HERAULT
-
-- **12 février (20h-22h)** : Apéro partagé et Film “Guérande, un peu de la beauté du monde” à Montpellier, Biocoop Clémenceau
 
 - **4 mars (18h-19h45)** : Film “Le Bateau Ivre” à Montpellier, Gazette café 
 
@@ -51,8 +51,6 @@ Ces soirées ont lieu dans le cadre du dispositif [#RegardsCoopératif initié p
 
 # GARD
 
-- **6 mars (17h-19h) à confirmer** : Film “Le Balai libéré” dans le cadre de la Journée internationale des droits des femmes à Nîmes, Bar du Midi
-
 - **12 mars (19h-21h)** : Film “Le Bateau Ivre” à Nîmes, Le Spot
 
 - **14 mars (17h-19h)** : Film “Guérande, un peu de la beauté du monde” à Nîmes, Le Bar du Midi
@@ -63,10 +61,7 @@ Ces soirées ont lieu dans le cadre du dispositif [#RegardsCoopératif initié p
 
 # AUDE
 
-- **14 février (19h30-21h30)** : Film “Guérande, un peu de la beauté du monde” à Bram, tiers lieu La Sauce Bramaise
-
-- **Date et heure à venir** :  Soirée Film à Narbonne, Narbonne, Théâtre Scène nationale Grand Narbonne
-
+- **13 mars (20h-22h)** :  Soirée Film "Guérande, un peu de la beauté du monde" à Castan, salle du presbytère
 
 *+ court-métrage surprise au cours de ces dates pour un retour en images sur la Galaxie coopérative qui a eu lieu le 6 septembre 2025 dans le cadre de l’Année Internationale des coopératives*
 
