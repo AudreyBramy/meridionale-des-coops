@@ -27,9 +27,9 @@ Ces soirées ont lieu dans le cadre du dispositif [#RegardsCoopératif initié p
 - *18 décembre : Film "Guérande" au Pôle Michèle Weil (Sète)* 
 - *20 janvier : Film “Foodcoop” à The Island (Montpellier)*
 - *21 janvier : Film “Foodcoop” à La Hune (Frontignan)*
-- *29 janvier : Soirée autour du livre "Burn out militant" et  rencontre de l’autrice Hélène Balazard au Quartier Généreux (Montpellier)
-- 12 février : Apéro partagé et Film “Guérande, un peu de la beauté du monde” à la Biocoop Clémenceau (Montpellier)
--  14 février : Film “Guérande, un peu de la beauté du monde” à La Sauce Bramaise (Bram)*
+- *29 janvier : Soirée autour du livre "Burn out militant" et  rencontre de l’autrice Hélène Balazard au Quartier Généreux (Montpellier)*
+- *12 février : Apéro partagé et Film “Guérande, un peu de la beauté du monde” à la Biocoop Clémenceau (Montpellier)*
+-  *14 février : Film “Guérande, un peu de la beauté du monde” à La Sauce Bramaise (Bram)*
 
 **(Toutes les soirées sont en entrées libres et gratuites)**
 
