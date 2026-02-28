@@ -61,7 +61,7 @@ Ces soirées ont lieu dans le cadre du dispositif [#RegardsCoopératif initié p
 
 # AUDE
 
-- **13 mars (20h-22h)** :  Soirée Film "Guérande, un peu de la beauté du monde" à Castan, salle du presbytère
+- **13 mars (20h-22h)** :  Soirée Film "Guérande, un peu de la beauté du monde" à Pradelles-Cabardès, Salle des mariages - Mairie, 9 place de la Tour 
 
 *+ court-métrage surprise au cours de ces dates pour un retour en images sur la Galaxie coopérative qui a eu lieu le 6 septembre 2025 dans le cadre de l’Année Internationale des coopératives*
 
