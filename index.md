@@ -30,14 +30,15 @@ Ces soirées ont lieu dans le cadre du dispositif [#RegardsCoopératif initié p
 - *29 janvier : Soirée autour du livre "Burn out militant" et  rencontre de l’autrice Hélène Balazard au Quartier Généreux (Montpellier)*
 - *12 février : Apéro partagé et Film “Guérande, un peu de la beauté du monde” à la Biocoop Clémenceau (Montpellier)*
 -  *14 février : Film “Guérande, un peu de la beauté du monde” à La Sauce Bramaise (Bram)*
+- *4 mars : Film “Le Bateau Ivre” au Gazette café (Montpellier)*
+- *12 mars (19h-21h) : Film “Le Bateau Ivre” au Spot (Nîmes)*
+- *13 mars :  Soirée Film "Guérande, un peu de la beauté du monde" à la Mairie (Pradelles-Cabardès)*
+- *14 mars : Film “Guérande, un peu de la beauté du monde” Le Bar du Midi (Nîmes)*
+- *15 mars : Brunch partagé et Film “Le Balai libéré” au Cinéma Utopia (Montpellier)*
 
 **(Toutes les soirées sont en entrées libres et gratuites)**
 
 # HERAULT
-
-- **4 mars (18h-19h45)** : Film “Le Bateau Ivre” à Montpellier, Gazette café 
-
-- **15 mars (11h-13h)** : Brunch partagé et Film “Le Balai libéré” à Montpellier, Cinéma Utopia
 
 - **24 mars (18h-20h)** : Film “Le Balai libéré” à Sète, La Palanquée
 
@@ -51,17 +52,13 @@ Ces soirées ont lieu dans le cadre du dispositif [#RegardsCoopératif initié p
 
 # GARD
 
-- **12 mars (19h-21h)** : Film “Le Bateau Ivre” à Nîmes, Le Spot
-
-- **14 mars (17h-19h)** : Film “Guérande, un peu de la beauté du monde” à Nîmes, Le Bar du Midi
-
 - **28 mars (17h-19h)** : Film ”Demain l'usine” à Nîmes, Bar du Midi
 
 - **16 avril (18h15-21h)** : Soirée rencontre des coops à Nîmes, bar coopératif le Prolé
 
 # AUDE
 
-- **13 mars (20h-22h)** :  Soirée Film "Guérande, un peu de la beauté du monde" à Pradelles-Cabardès, Salle des mariages - Mairie, 9 place de la Tour 
+- **20 avril (19h30-21h)** : Film “Le Bateau Ivre”, Tiers lieu la Sauce bramaise à Bram
 
 *+ court-métrage surprise au cours de ces dates pour un retour en images sur la Galaxie coopérative qui a eu lieu le 6 septembre 2025 dans le cadre de l’Année Internationale des coopératives*
 
