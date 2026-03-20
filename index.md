@@ -35,12 +35,13 @@ Ces soirées ont lieu dans le cadre du dispositif [#RegardsCoopératif initié p
 - *13 mars :  Soirée Film "Guérande, un peu de la beauté du monde" à la Mairie (Pradelles-Cabardès)*
 - *14 mars : Film “Guérande, un peu de la beauté du monde” Le Bar du Midi (Nîmes)*
 - *15 mars : Brunch partagé et Film “Le Balai libéré” au Cinéma Utopia (Montpellier)*
+- *20 mars : Film “Le Bateau Ivre”, Tiers lieu la Sauce bramaise (Bram)*
 
 **(Toutes les soirées sont en entrées libres et gratuites)**
 
 # HERAULT
 
-- **24 mars (18h-20h)** : Film “Le Balai libéré” à Sète, La Palanquée
+- **24 mars (18h-20h)** : Film “Le Balai libéré” et ouverture avec la chorale féministe "A poils et à paillettes" à Sète, La Palanquée
 
 - **10 avril (20h-22h)** : Film “Demain l’Usine” à Jacou, à la MJC Boby Lapointe
 
@@ -56,9 +57,6 @@ Ces soirées ont lieu dans le cadre du dispositif [#RegardsCoopératif initié p
 
 - **16 avril (18h15-21h)** : Soirée rencontre des coops à Nîmes, bar coopératif le Prolé
 
-# AUDE
-
-- **20 avril (19h30-21h)** : Film “Le Bateau Ivre”, Tiers lieu la Sauce bramaise à Bram
 
 *+ court-métrage surprise au cours de ces dates pour un retour en images sur la Galaxie coopérative qui a eu lieu le 6 septembre 2025 dans le cadre de l’Année Internationale des coopératives*
 
