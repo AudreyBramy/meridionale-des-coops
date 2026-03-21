@@ -68,3 +68,7 @@ coopératif La Cagette
 - [Les Survoltés d'Aubais](https://survoltes.fr/) : collectif de production citoyen d'énergie renouvelable sur Aubais
 - [La Biocoop du Courreau et Clémenceau](https://montpellier-courreau.biocoop.net/) : magasins Biocoop à Montpellier
 - [Thau Energies Citoyennes](https://thau-energies-citoyennes.fr/) : coopérative d'investissement citoyen dans les enr sur le bassin de Thau 
+- [IZUBA](https://www.izuba.fr/societe/) : coopérative de la transition énergétique et écologique du batiment.
+- [Le Spot](https://lespotnimes.com/) : tiers-lieu culturel coopératif et laboratoire urbain à Nîmes
+- [La Carmagnole](https://lacarmagnole.fr/) : tiers-lieu coopératif, alternatif et solidaire à Montpellier
+-  [Cinéma Utopia](https://www.cinemas-utopia.org/montpellier/) : cinéma coopératif, salles de proximité et indépendantes 
