@@ -53,7 +53,7 @@ Ces soirées ont lieu dans le cadre du dispositif [#RegardsCoopératif initié p
 
 # GARD
 
-- **28 mars (17h-19h)** : Film ”Demain l'usine” à Nîmes, Bar du Midi
+- **Annulé** : Film ”Demain l'usine” à Nîmes, Bar du Midi
 
 - **16 avril (18h15-21h)** : Soirée rencontre des coops à Nîmes, bar coopératif le Prolé
 
