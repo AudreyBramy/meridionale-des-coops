@@ -46,7 +46,7 @@ Ces soirées ont lieu dans le cadre du dispositif [#RegardsCoopératif initié p
 
 - **17 avril (18h30-20h30)** : Film “Los Motivos de la Selva“ et expo photos à Montpellier, La Base
 
-- **23 avril (18h30-20h45)** : Film “We The Power” à Montpellier, Le Quartier Généreux
+- **23 avril (19h00-21h00)** : Film “We The Power” à Montpellier, Le Quartier Généreux
 
 - **12 mai (20h20-22h30)** : Ciné en plein air - Guinguette “Des Coops pour Habiter autrement” à Montpellier, Les CEMEA
 
