@@ -36,6 +36,7 @@ Ces soirées ont lieu dans le cadre du dispositif [#RegardsCoopératif initié p
 - *14 mars : Film “Guérande, un peu de la beauté du monde” Le Bar du Midi (Nîmes)*
 - *15 mars : Brunch partagé et Film “Le Balai libéré” au Cinéma Utopia (Montpellier)*
 - *20 mars : Film “Le Bateau Ivre”, Tiers lieu la Sauce bramaise (Bram)*
+- *23 mars : Conférence Gesticulée “Ravagés, une conférence théâtralisée pour sauver ta culture”, Pôle Realis (Montpellier)*
 - *24 mars : Film “Le Balai libéré” et ouverture avec la chorale féministe "A poils et à paillettes" à Sète, La Palanquée*
 
 **(Toutes les soirées sont en entrées libres et gratuites)**
