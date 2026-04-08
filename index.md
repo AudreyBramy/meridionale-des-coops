@@ -48,8 +48,7 @@ Ces soirées ont lieu dans le cadre du dispositif [#RegardsCoopératif initié p
 
 - **23 avril (19h00-21h00)** : Film “We The Power” à Montpellier et Dédicace-Rencontre "Cyrielle Brume" avec Lou-Anna Reix, Le Quartier Généreux
 
-- **24-25-26 avril** : Festival militant en présence de membres de la Méridionale et avec notre recommandation Ciné-débat "WeCop" le **26 avril (10h-11h30)**, une création du collectif artiviste <a href="https://www.le-bruit-qui-court.fr/" class="bouton">Le Bruit qui court</a>, à Saint-Jean-de-Fos lors du 
-<a href="https://tisseurs-tisseuses-despoir.jimdofree.com/le-programme/" class="bouton">Carrefour des Alternatives</a>
+- **24-25-26 avril** : Festival militant en présence de membres de la Méridionale et avec notre recommandation Ciné-débat "WeCop" le **26 avril (10h-11h30)**, une création du collectif artiviste [Le Bruit qui court](https://www.le-bruit-qui-court.fr/), à Saint-Jean-de-Fos lors du [Carrefour des Alternatives](https://tisseurs-tisseuses-despoir.jimdofree.com/le-programme/)
 
 - **12 mai (20h20-22h30)** : Ciné en plein air - Guinguette “Des Coops pour Habiter autrement” à Montpellier, Les CEMEA
 
