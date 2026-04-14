@@ -47,6 +47,8 @@ Ces soirées ont lieu dans le cadre du dispositif [#RegardsCoopératif initié p
 
 - **17 avril (18h30-20h30)** : Film “Los Motivos de la Selva“ et expo photos à Montpellier, La Base
 
+- **22 avril (12h30-13h30)** : Rendez-vous pour le GRAND BILAN de Regard Coopératifs !  [Sur Inscriptions](https://airtable.com/appQBqjZdj10rUflJ/shrXT8uOpLgzHAAp6)
+
 - **23 avril (19h00-21h00)** : Film “We The Power” à Montpellier et Dédicace-Rencontre "Cyrielle Brume" avec Lou-Anna Reix, Le Quartier Généreux
 
 - **24-25-26 avril** : Festival militant en présence de membres de la Méridionale et avec notre recommandation Ciné-débat "WeCop" le **26 avril (10h-11h30)**, une création du collectif artiviste [Le Bruit qui court](https://www.le-bruit-qui-court.fr/), à Saint-Jean-de-Fos lors du [Carrefour des Alternatives](https://tisseurs-tisseuses-despoir.jimdofree.com/le-programme/)
