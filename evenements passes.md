@@ -11,3 +11,5 @@ Ouvert à toutes et à tous, en familles ou entre ami-es, vous allez être plong
 ![Affiche de l'événement du 6 septembre]({% link images/Affiche.jpg %})
 
 Pour retrouve le [programme complet](https://drive.google.com/file/d/1DWdKmV7WCZ8I0wXRvvqKL7feWV62L7O-/view?usp=sharing) 
+
+[Le film du 6 septembre ! Quelques souvenirs en image](https://vimeo.com/1161391788/fadddc7678?share=copy&fl=sv&fe=ci). 
