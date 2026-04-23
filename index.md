@@ -76,6 +76,4 @@ Ces soirées ont lieu dans le cadre du dispositif [#RegardsCoopératif initié p
 - Des personnes déjà engagées dans différentes structures, pour permettre le regroupement et la convergence (se retrouver, ensemble et faire “corps”).
 - Des structures de l'ESS qui ont envie de participer ou de proposer leurs services.
 
-Pour toutes demandes ou infos sur qui nous sommes, vous pouvez nous envoyez un mail directement : meridionale-des-cooperatives@riseup.net. 
-
-<a href="https://www.helloasso.com/associations/les-amis-de-la-cagette/evenements/galaxie-cooperative-un-evenement-de-la-meridionale-des-cooperatives" class="bouton">S'inscrire</a> 
+Pour toutes demandes, envie de nous rejoindre ou infos sur qui nous sommes, vous pouvez nous envoyez un mail directement : meridionale-des-cooperatives@riseup.net. 
