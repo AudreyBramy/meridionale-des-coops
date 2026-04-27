@@ -39,21 +39,21 @@ Ces soirées ont lieu dans le cadre du dispositif [#RegardsCoopératif initié p
 - *23 mars : Conférence Gesticulée “Ravagés, une conférence théâtralisée pour sauver ta culture”, Pôle Realis (Montpellier)*
 - *24 mars : Film “Le Balai libéré” et ouverture avec la chorale féministe "A poils et à paillettes" à Sète, La Palanquée*
 
+- *10 avril : Film “Demain l’Usine” à Jacou, à la MJC Boby Lapointe*
+
+- *17 avril : Film “Los Motivos de la Selva“ et expo photos à Montpellier, La Base*
+
+- *22 avril : Rendez-vous pour le GRAND BILAN de Regard Coopératifs !  [Sur Inscriptions](https://airtable.com/appQBqjZdj10rUflJ/shrXT8uOpLgzHAAp6)*
+
+- *23 avril : Film “We The Power” à Montpellier et Dédicace-Rencontre "Cyrielle Brume" avec Lou-Anna Reix, Le Quartier Généreux*
+
+- *24-25-26 avril : Festival militant en présence de membres de la Méridionale, à Saint-Jean-de-Fos lors du [Carrefour des Alternatives](https://tisseurs-tisseuses-despoir.jimdofree.com/le-programme/)*
+
 **(Toutes les soirées sont en entrées libres et gratuites)**
 
-# PLUS QUE 4 SOIRÉES !
+# SOIREE DE CLOTURE !
 
-- **10 avril (20h-22h)** : Film “Demain l’Usine” à Jacou, à la MJC Boby Lapointe
-
-- **17 avril (18h30-20h30)** : Film “Los Motivos de la Selva“ et expo photos à Montpellier, La Base
-
-- **22 avril (12h30-13h30)** : Rendez-vous pour le GRAND BILAN de Regard Coopératifs !  [Sur Inscriptions](https://airtable.com/appQBqjZdj10rUflJ/shrXT8uOpLgzHAAp6)
-
-- **23 avril (19h00-21h00)** : Film “We The Power” à Montpellier et Dédicace-Rencontre "Cyrielle Brume" avec Lou-Anna Reix, Le Quartier Généreux
-
-- **24-25-26 avril** : Festival militant en présence de membres de la Méridionale et avec notre recommandation Ciné-débat "WeCop" le **26 avril (10h-11h30)**, une création du collectif artiviste [Le Bruit qui court](https://www.le-bruit-qui-court.fr/), à Saint-Jean-de-Fos lors du [Carrefour des Alternatives](https://tisseurs-tisseuses-despoir.jimdofree.com/le-programme/)
-
-- **12 mai (20h20-22h30)** : Ciné en plein air - Guinguette “Des Coops pour Habiter autrement” à Montpellier, Les CEMEA
+- **12 mai (19h-22h30)** : Ciné en plein air - Guinguette “Des Coops pour Habiter autrement” à Montpellier, Les CEMEA
 
 
 *+ court-métrage surprise au cours de ces dates pour un retour en images sur la Galaxie coopérative qui a eu lieu le 6 septembre 2025 dans le cadre de l’Année Internationale des coopératives*
